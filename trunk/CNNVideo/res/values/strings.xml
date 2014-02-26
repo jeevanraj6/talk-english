@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CNN English</string>
+    <string-array name="student_title">
+        <item>CNN Student News - January 17, 2014</item>
+        <item>CNN Student News - January 16, 2014</item>
+        <item>CNN Student News - January 15, 2014</item>
+        <item>CNN Student News - January 14, 2014</item>
+        <item>CNN Student News - January 13, 2014</item>
+        <item>CNN Student News - January 10, 2014</item>
+        <item>CNN Student News - January 9, 2014</item>
+        <item>CNN Student News - January 8, 2014</item>
+        <item>CNN Student News - January 7, 2014</item>
+        <item>CNN Student News - January 6, 2014</item>
+        <item>CNN Student News - December 20, 2013</item>
+        <item>CNN Student News - December 19, 2013</item>
+        <item>CNN Student News - December 18, 2013</item>
+        <item>CNN Student News - December 17, 2013</item>
+        <item>CNN Student News - December 10, 2013</item>
+        <item>CNN Student News - December 06, 2013</item>
+        <item>CNN Student News - December 05, 2013</item>
+        <item>CNN Student News - December 04, 2013</item>
+        <item>CNN Student News - December 03, 2013</item>
+        <item>CNN Student News - December 02, 2013</item>
+        <item>CNN Student News - November 26, 2013</item>
+        <item>CNN Student News - November 25, 2013</item>
+        <item>CNN Student News - November 22, 2013</item>
+        <item>CNN Student News - November 21, 2013</item>
+        <item>CNN Student News - November 20, 2013</item>
+        <item>CNN Student News - November 19, 2013</item>
+        <item>CNN Student News - November 18, 2013</item>
+        <item>CNN Student News - November 15, 2013</item>
+        <item>CNN Student News - November 14, 2013</item>
+        <item>CNN Student News - November 13, 2013</item>
+        <item>CNN Student News - November 12, 2013</item>
+        <item>CNN Student News - November 11, 2013</item>
+        <item>CNN Student News - November 8, 2013</item>
+        <item>CNN Student News - November 7, 2013</item>
+        <item>CNN Student News - November 6, 2013</item>
+        <item>CNN Student News - November 5, 2013</item>
+        <item>CNN Student News - November 4, 2013</item>
+        <item>CNN Student News - November 1, 2013</item>
+        <item>CNN Student News - October 17, 2013</item>
+        <item>CNN Student News - August 29, 2013</item>
+        <item>CNN Student News - June 07, 2013</item>
+        <item>CNN Student News - June 05, 2013</item>
+        <item>CNN Student News - May 31, 2013</item>
+        <item>CNN Student News - May 30, 2013</item>
+        <item>CNN Student News - May 24, 2013</item>
+        <item>CNN Student News - May 21, 2013</item>
+        <item>CNN Student News - May 17, 2013</item>
+        <item>CNN Student News - May 15, 2013</item>
+        <item>CNN Student News - May 13, 2013</item>
+        <item>CNN Student News - May 10, 2013</item>
+        <item>CNN Student News - May 8, 2013</item>
+        <item>CNN Student News - May 3, 2013</item>
+        <item>CNN Student News - April 30, 2013</item>
+        <item>Breaking News English April 28, 2013</item>
+        <item>CNN Student News - April 26, 2013</item>
+        <item>CNN Student News - April 25, 2013</item>
+        <item>CNN Student News - April 23, 2013</item>
+        <item>Breaking News English - April 18, 2013</item>
+        <item>CNN Student News - April 19, 2013</item>
+        <item>CNN Student News - April 18, 2013</item>
+        <item>CNN Student News - April 16, 2013</item>
+        <item>CNN Student News - April 12, 2013</item>
+        <item>CNN Student News - April 11, 2013</item>
+        <item>CNN Student News - April 10, 2013</item>
+        <item>CNN Student News - April 09, 2013</item>
+        <item>CNN Student News - April 08, 2013</item>
+        <item>CNN Student News - April 06, 2013</item>
+        <item>CNN Student News - April 05, 2013</item>
+        <item>CNN Student News - April 04, 2013</item>
+        <item>CNN Student News - April 03, 2013</item>
+        <item>CNN Student News - April 02, 2013</item>
+        <item>CNN Student News - April 01, 2013</item>
+        <item>CNN Student News - March 29, 2013</item>
+        <item>CNN Student News - March 28, 2013</item>
+        <item>CNN Student News - March 27, 2013</item>
+        <item>CNN Student News - March 26, 2013</item>
+        <item>CNN Student News - March 25, 2013</item>
+        <item>CNN Student News - March 22, 2013</item>
+        <item>CNN Student News - March 21, 2013</item>
+        <item>CNN Student News - March 19, 2013</item>
+        <item>CNN Student News - March 18, 2013</item>
+        <item>CNN Student News - March 15, 2013</item>
+        <item>CNN Student News - March 13, 2013</item>
+        <item>CNN Student News - March 11, 2013</item>
+        <item>CNN Student News - March 8, 2013</item>
+        <item>CNN Student News - March 7, 2013</item>
+        <item>CNN Student News - March 6, 2013</item>
+    </string-array>
+    <string-array name="student_link">
+        <item>JyOT3LupVTU</item>
+        <item>R7vC4DAFTOs</item>
+        <item>ak-AN23amwo</item>
+        <item>h1SntuDyjrQ</item>
+        <item>MlKGhtphOuo</item>
+        <item>-1W4bEnf0-o</item>
+        <item>cmlJ9O6FGio</item>
+        <item>OkXwWq9dKu4</item>
+        <item>8fRubU-q4eY</item>
+        <item>Y5LH8vnn_mM</item>
+        <item>MxQNsB1TXw0</item>
+        <item>07mrDqF3LVg</item>
+        <item>fZhrTB7gnwE</item>
+        <item>bb2dZ4eiLNM</item>
+        <item>ubaG8gBoOrc</item>
+        <item>lbFghgyh-AA</item>
+        <item>aeEOqCGbiMU</item>
+        <item>RlaP2a8j6Jk</item>
+        <item>AqQjnmAj3t0</item>
+        <item>LGbQBrGgqho</item>
+        <item>WdxyIQ0mZxs</item>
+        <item>ysq8rXa7Bhk</item>
+        <item>5i8zg5b4-bs</item>
+        <item>wAPwPhmO9og</item>
+        <item>5aIaVDK09oE</item>
+        <item>z2Ezk1qXVV0</item>
+        <item>K4363ZNN76c</item>
+        <item>w8iVO462Syg</item>
+        <item>zyeApVN7wdY</item>
+        <item>VTgIv2d29Tk</item>
+        <item>2ED9eduUXbE</item>
+        <item>er-AW6RDE8o</item>
+        <item>n05xNcwdIB8</item>
+        <item>BSV6tDJuIVo</item>
+        <item>1B8es_kYtfM</item>
+        <item>CQNDu7sDhqM</item>
+        <item>hELtOPpPskM</item>
+        <item>WlsmDheihwo</item>
+        <item>hdmsbqwyB0E</item>
+        <item>MlupqXmMxy4</item>
+        <item>Zf4qMllzVew</item>
+        <item>DmR1YgVWH64</item>
+        <item>hTZzcNmYp4g</item>
+        <item>_r1WGoWRQTk</item>
+        <item>je0R0qPuqcw</item>
+        <item>3LubRT9ClWs</item>
+        <item>1UYFU7eZFD4</item>
+        <item>Tcv6Ng0cqHM</item>
+        <item>2xluDC8MFAw</item>
+        <item>0UtzyY2ugeg</item>
+        <item>svyOrPccQaE</item>
+        <item>LTAoamV67yI</item>
+        <item>xv44kHCdbx0</item>
+        <item>MxJQq7DTeNI</item>
+        <item>zqNY7KpFzW8</item>
+        <item>lz9UKd3fNpo</item>
+        <item>t00lXHwYcDA</item>
+        <item>KcrOzaWnlso</item>
+        <item>FE_w_NMUqhA</item>
+        <item>YqQ165SH0d8</item>
+        <item>XY4BhFpXHe8</item>
+        <item>cKyNeEC5Vwk</item>
+        <item>qh-rfpCuYWM</item>
+        <item>yaVujqf8jME</item>
+        <item>sF3Bz3AScqQ</item>
+        <item>p-wSS6CRZTA</item>
+        <item>8i-ICQbyM6I</item>
+        <item>AXjIaEMI7GE</item>
+        <item>5uleIb-4zT0</item>
+        <item>iNL2AAyN8x8</item>
+        <item>UkCQhEvGiMk</item>
+        <item>RFiBkF7mN2U</item>
+        <item>NbgUDagGPv4</item>
+        <item>FaEM7MlfM1g</item>
+        <item>v1QIX8DGz_o</item>
+        <item>UbqbE23enzg</item>
+        <item>EFvVbmIOPwY</item>
+        <item>dqFA1Vx9Kp8</item>
+        <item>U4ujdXEyxUI</item>
+        <item>nKJBvagDg6Q</item>
+        <item>vVGeT6UjVHM</item>
+        <item>RjSLsfxb-3Q</item>
+        <item>IoOaEksFZnY</item>
+        <item>0cNM0gKdL7Q</item>
+        <item>6iipY2vNvjM</item>
+        <item>NPKwc0JA9MM</item>
+        <item>9gYEGQmzQpo</item>
+        <item>Ds9EKPsbLkQ</item>
+        <item>NevaOOoJ3GI</item>
+    </string-array>
+    <string-array name="news_title">
+        <item>BBC Breaking News Nelson Mandela Dead Part 1</item>
+        <item>BBC Breaking News Nelson Mandela Dead Part 2</item>
+        <item>BBC Breaking News Nelson Mandela Dead Part 3</item>
+        <item>CNN Exclusive: Cristiano Ronaldo All Access</item>
+        <item>CNN Special: Mourinho Masterclass</item>
+        <item>Watch final debate between Obama, Romney</item>
+        <item>Girls defy the Taliban in Pakistan</item>
+        <item>Human to Hero</item>
+        <item>Curtain raises on latest Bond film</item>
+        <item>Prayers for Nelson Mandela</item>
+        <item>Breaking News English April 28, 2013</item>
+        <item>Breaking News English - April 18, 2013</item>
+        <item>Breaking News English - April 8, 2013</item>
+        <item>Breaking News English - April 6, 2013</item>
+        <item>Breaking News English - April 4, 2013</item>
+        <item>Breaking News English - March 31, 2013</item>
+        <item>Breaking News English - March 19,2013</item>
+        <item>Breaking News English -March 18,2013</item>
+        <item>Breaking News English -March 15,2013</item>
+        <item>Breaking News English -March 13,2013</item>
+        <item>Breaking News English -March 11,2013</item>
+        <item>Breaking News English -March 9,2013</item>
+        <item>Breaking News English - March 7, 2013</item>
+        <item>Children worrying about their body image</item>
+    </string-array>
+    <string-array name="news_link">
+        <item>rQupvH_Dn4c</item>
+        <item>CGGvXlrRs5M</item>
+        <item>BmURmmlIyIU</item>
+        <item>inUoNBE9U7Q</item>
+        <item>HGS6AGoBXLg</item>
+        <item>KxHXq6NKFc8</item>
+        <item>gWXd8gS3HAo</item>
+        <item>LqNqGo4mfZ4</item>
+        <item>BaWMHxVTmBI</item>
+        <item>4McsezItDmc</item>
+        <item>MxJQq7DTeNI</item>
+        <item>KcrOzaWnlso</item>
+        <item>srjDh2F5iWA</item>
+        <item>AXjIaEMI7GE</item>
+        <item>NrDGrTCABKA</item>
+        <item>Vue3BIVOnzQ</item>
+        <item>ofJPvakukVA</item>
+        <item>xRW4-Y0mrDc</item>
+        <item>5jE8569VtTg</item>
+        <item>5GQK09FaS3I</item>
+        <item>7CEqTWDqOPY</item>
+        <item>pVK8Q0O-yAk</item>
+        <item>jCupkKEkSTs</item>
+        <item>NC4ewlWoEIs</item>
+    </string-array>
+</resources>
