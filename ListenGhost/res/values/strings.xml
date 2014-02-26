@@ -1,0 +1,178 @@
+<resources>
+
+    <string name="app_name">Truyện ma hay nhat</string>
+	<string-array name="nnn_title">
+        <item>Tiếng quạ réo vong hồn P1</item>
+        <item>Tiếng quạ réo vong hồn P2</item>
+        <item>Cõi âm P1</item>
+        <item>Cõi âm P2</item>
+        <item>Cõi âm P3</item>
+        <item>Cõi âm P4</item>
+        <item>Cõi âm P5</item>
+        <item>Cõi âm P6</item>
+        <item>Cõi âm P7</item>
+        <item>Cõi âm P8</item>
+        <item>Ngôi mộ mới đắp P1</item>
+        <item>Ngôi mộ mới đắp P2</item>
+        <item>Đêm trong căn nhà hoang P1</item>
+        <item>Đêm trong căn nhà hoang P2</item>
+        <item>Bãi đất hoang sau nhà P1</item>
+        <item>Bãi đất hoang sau nhà P2</item>
+        <item>Căn nhà số 13</item>
+        <item>Bóng người dưới trăng P1</item>
+        <item>Bóng người dưới trăng P2</item>
+        <item>Bóng người dưới trăng P3</item>
+        <item>Bóng người dưới trăng P4</item>
+        <item>Hồn về trong gió</item>
+        <item>Đêm không trăng</item>
+        <item>Căn nhà số 24</item>
+        <item>Quỷ nhập tràng</item>
+        <item>Bóng ma bên cửa</item>
+    </string-array>
+    <string-array name="nnn_link">
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/tieng-qua-reo-vong-hon-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/tieng-qua-reo-vong-hon-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p4.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p5.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p6.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p7.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p8.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/ngoi-mo-moi-dap-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/ngoi-mo-moi-dap-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/dem-trong-can-nha-hoang-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/dem-trong-can-nha-hoang-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/bai-dat-hoang-sau-nha-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/bai-dat-hoang-sau-nha-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/can-nha-so-13.mp3</item>
+        <item>_YdLkIsx_Sw</item>
+        <item>1QJwSkhl2T4</item>
+        <item>TJrhpMQ0wMQ</item>
+        <item>FXUvPB3Brs8</item>
+        <item>yfa27wCdQkE</item>
+        <item>o2feVvr0oD8</item>
+        <item>jzFJVFZcMWg</item>
+        <item>LlMYkEh2PsU</item>
+        <item>hh3-I1qamZk</item>
+    </string-array>
+    <string-array name="other_title">
+        <item>Pho tượng đồng báo oán P1</item>
+        <item>Pho tượng đồng báo oán P2</item>
+        <item>Pho tượng đồng báo oán P3</item>
+        <item>Pho tượng đồng báo oán P4</item>
+        <item>Con ma trong tầng hầm</item>
+        <item>Làng ma</item>
+        <item>Đất độc P1</item>
+        <item>Đất độc P2</item>
+        <item>Đất độc P3</item>
+        <item>Đất độc P4</item>
+        <item>Oan hồn P1</item>
+        <item>Oan hồn P2</item>
+        <item>Hồn ma thằng cu Hoàng</item>
+        <item>Cô gái đi giày đỏ</item>
+        <item>Con ma gốc xoài P1</item>
+        <item>Con ma gốc xoài P2</item>
+        <item>Đêm kinh hoàng</item>
+        <item>Vong hồn trên những cánh đồng chết P1</item>
+        <item>Vong hồn trên những cánh đồng chết P2</item>
+        <item>Vong hồn trên những cánh đồng chết P3</item>
+        <item>Vong hồn trên những cánh đồng chết P4</item>
+        <item>Cô gái giữa đêm</item>
+        <item>Tai nạn bất ngờ P1</item>
+        <item>Tai nạn bất ngờ P2</item>
+        <item>Tai nạn bất ngờ P3</item>
+        <item>Tai nạn bất ngờ P4</item>
+        <item>Tai nạn bất ngờ P5</item>
+        <item>Liêu trai chí dị P1</item>
+        <item>Liêu trai chí dị P2</item>
+        <item>Liêu trai chí dị P3</item>
+        <item>Liêu trai chí dị P4</item>
+        <item>Liêu trai chí dị P5</item>
+        <item>Liêu trai chí dị P6</item>
+        <item>Xác chết báo hận P1</item>
+        <item>Xác chết báo hận P2</item>
+        <item>Ánh mắt vô tình P1</item>
+        <item>Ánh mắt vô tình P2</item>
+        <item>Dấu vết ân tình P1</item>
+        <item>Dấu vết ân tình P2</item>
+        <item>Lăng loàn</item>
+        <item>Người chết trả thù</item>
+        <item>Tấm vải đỏ P1</item>
+        <item>Tấm vải đỏ P2</item>
+        <item>Tấm vải đỏ P3</item>
+        <item>Tấm vải đỏ P4</item>
+        <item>Tấm vải đỏ P5</item>
+        <item>Tấm vải đỏ P6</item>
+        <item>Tấm vải đỏ P7</item>
+        <item>Tấm vải đỏ P8</item>
+        <item>Đề thi đãm máu P1</item>
+        <item>Đề thi đãm máu P2</item>
+        <item>Đề thi đãm máu P3</item>
+        <item>Đề thi đãm máu P4</item>
+        <item>Đề thi đãm máu P5</item>
+        <item>Đề thi đãm máu P6</item>
+        <item>Đề thi đãm máu P7</item>
+        <item>Đề thi đãm máu P8</item>
+    </string-array>
+    <string-array name="other_link">
+        <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p4end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/con-ma-trong-tang-ham.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/lang-ma.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/dat-doc/dat-doc-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/dat-doc/dat-doc-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/dat-doc/dat-doc-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/dat-doc/dat-doc-p4end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/13-oan-hon/13-oan-hon-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/13-oan-hon/13-oan-hon-p2end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/hon-ma-thang-cu-hoang.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/co-gai-di-giay-do.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/con-ma-goc-xoai/con-ma-goc-xoai-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/con-ma-goc-xoai/con-ma-goc-xoai-p2end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/dem-kinh-hoang.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/vong-hon-tren-nhung-canh-dong-chet-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/vong-hon-tren-nhung-canh-dong-chet-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/vong-hon-tren-nhung-canh-dong-chet-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/vong-hon-tren-nhung-canh-dong-chet-p4end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/co-gai-giua-dem.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tai-nan-bat-ngo-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tai-nan-bat-ngo-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tai-nan-bat-ngo-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tai-nan-bat-ngo-p4.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tai-nan-bat-ngo-p5end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lieu-trai-chi-di-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lieu-trai-chi-di-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lieu-trai-chi-di-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lieu-trai-chi-di-p4.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lieu-trai-chi-di-p5.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lieu-trai-chi-di-p6.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/xac-chet-bao-han-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/xac-chet-bao-han-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/anh-mat-vo-tinh-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/anh-mat-vo-tinh-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/dau-vet-an-tinh-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/dau-vet-an-tinh-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/lang-loan.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/nguoi-chet-tra-thu.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p4.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p5.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p6.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p7.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/tam-vai-do/tam-vai-do-p8end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p2.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p3.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p4.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p5.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p6.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p7.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/de-thi-dam-mau/de-thi-dam-mau-p8.mp3</item>
+    </string-array>
+</resources>
