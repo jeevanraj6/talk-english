@@ -1,0 +1,107 @@
+<resources>
+
+    <string name="app_name">effortless</string>
+
+    <string-array name="seven_title">
+        <item>Rule 1 English Phrases</item>
+        <item>Rule 2 Don\'t Study Grammar Rules!</item>
+        <item>Rule 3 Listen Listen Listen</item>
+        <item>Rule 4 Deep English Learning With Repetition</item>
+        <item>Rule 5 How to Learn English Grammar</item>
+        <item>Rule 6 Learn Real English</item>
+        <item>Rule 7 Powerful English Speaking Stories</item>
+    </string-array>
+    <string-array name="seven_link">
+        <item>r5z-lilm-gg</item>
+        <item>Z97aFszFc9M</item>
+        <item>M5uWkhx5Etw</item>
+        <item>IkoZAL_p-SI</item>
+        <item>wB8mr4iViy0</item>
+        <item>hvfjwiMO35Q</item>
+        <item>zb3RfN4Rfow</item>
+    </string-array>
+    
+    <string-array name="show_title">
+        <item>The Effortless English Show, Episode 1</item>
+        <item>The Effortless English Show, Episode 2</item>
+        <item>The Effortless English Show, Episode 3</item>
+        <item>The Effortless English Show, Episode 4</item>
+        <item>The Effortless English Show, Episode 5</item>
+        <item>The Effortless English Show, Episode 6</item>
+        <item>The Effortless English Show, Episode 7</item>
+        <item>The Effortless English Show, Episode 8</item>
+    </string-array>
+     <string-array name="show_link">
+         <item>J2jVEFXKA18</item>
+         <item>03nmhDVyLkw</item>
+         <item>xbdTeRTmLhA</item>
+         <item>mHV2esZ7bIk</item>
+         <item>Msd_0h3Qujo</item>
+         <item>QJZB6h5tJBU</item>
+         <item>uokNCYLym9Q</item>
+         <item>DKjmKelZdVo</item>
+    </string-array>
+    
+     <string-array name="engine_title">
+         <item>Effortless English Engine</item>
+         <item>English Learning Energy</item>
+         <item>Speaking English- Feel Nervous and Shy?</item>
+         <item>English Language Schools Are Evil</item>
+         <item>Effortless English Code Mission Values</item>
+         <item>Psychology English Learning</item>
+         <item>Devotion To Mission</item>
+         <item>Effortless English Growing Community</item>
+         <item>Effortless English Creation</item>
+         <item>International Life of Adventure</item>
+         <item>Move And Learn</item>
+     </string-array>
+     <string-array name="engine_link">
+         <item>-zpJmpQT2Bg</item>
+         <item>sCkJUtT45vU</item>
+         <item>xkGGTN8wh9I</item>
+         <item>C3p_N9FPdy4</item>
+         <item>KSSlvPNjS98</item>
+         <item>KSSlvPNjS98</item>
+         <item>5h0Bpi8KGdw</item>
+         <item>TLmUaAlco2g</item>
+         <item>QuvWy2bSX3Y</item>
+         <item>FlJQkO1EjU4</item>
+         <item>PT4T0lrQs50</item>
+     </string-array>
+     
+     <string-array name="success_title">
+         <item>How Long To Fluency</item>
+         <item>Study English How Much?</item>
+         <item>English Teacher Secrets</item>
+         <item>Native Speakers</item>
+         <item>Wanna and Gonna</item>
+         <item>English Plural You</item>
+         <item>The TH Sound In English</item>
+         <item>Whaddya and Watcha</item>
+         <item>Needta and Gotta</item>
+     </string-array>
+     <string-array name="success_link">
+         <item>Qo7PB-8iAg4</item>
+         <item>4NMZQDKYARI</item>
+         <item>dSC0vzDMZAU</item>
+         <item>oQRXMK0wk3M</item>
+         <item>_g465fvG3Dg</item>
+         <item>-Ls3w7TA0Cg</item>
+         <item>h5LO0hHGfQg</item>
+         <item>qO2RBQNmDQ8</item>
+         <item>bwnGmw8yYlQ</item>
+     </string-array>
+    
+     <string-array name="presentation_title">
+         <item>English Presentation Fear</item>
+         <item>Presentations Adrenaline</item>
+         <item>English Presentations Peak Practice</item>
+         <item>English Job Interviews</item>
+     </string-array>
+     <string-array name="presentation_link">
+         <item>g_1vIXc4hh0</item>
+         <item>1p6oRD3n0ro</item>
+         <item>zBOoUKXPx94</item>
+         <item>oMrRpYto-pI</item>
+     </string-array>
+</resources>
