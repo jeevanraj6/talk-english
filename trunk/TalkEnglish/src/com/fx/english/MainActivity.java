@@ -10,6 +10,7 @@ import android.content.pm.PackageManager;
 import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -112,17 +113,18 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		if (appInstalledOrNot(paramString)) {
 			startActivity(getPackageManager().getLaunchIntentForPackage(
 					paramString));
-			return;
+		}else{
+			try {
+				startActivity(new Intent("android.intent.action.VIEW",
+						Uri.parse("market://details?id=" + paramString)));
+				return;
+			} catch (ActivityNotFoundException localActivityNotFoundException) {
+				startActivity(new Intent("android.intent.action.VIEW",
+						Uri.parse("http://play.google.com/store/apps/details?id="
+								+ paramString)));
+			}
 		}
-		try {
-			startActivity(new Intent("android.intent.action.VIEW",
-					Uri.parse("market://details?id=" + paramString)));
-			return;
-		} catch (ActivityNotFoundException localActivityNotFoundException) {
-			startActivity(new Intent("android.intent.action.VIEW",
-					Uri.parse("http://play.google.com/store/apps/details?id="
-							+ paramString)));
-		}
+	
 	}
 
 	public void onDestroy() {
@@ -138,7 +140,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
 			localMenuItem = (MenuItem) this.mainItems.get(paramInt);
 			if (localMenuItem.getName().equals(Constant.CNN)){
 				openOtherApp(localMenuItem.getClassName());
-			}if (localMenuItem.getName().equals(Constant.EFFORTLESS)){
+			}else if(localMenuItem.getName().equals(Constant.EFFORTLESS)){
 				openOtherApp(localMenuItem.getClassName());
 			}else{
 				Intent localIntent = new Intent();
