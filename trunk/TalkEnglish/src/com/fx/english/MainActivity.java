@@ -67,7 +67,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		item = new MenuItem();
 		item.setName(Constant.EFFORTLESS);
 		item.setIllustrationId(R.drawable.effortless);
-		item.setClassName(MainTalkActivity.class.getName());
+		item.setClassName(Constant.EFFORTLESS_APP);
 		this.mainItems.add(item);
 
 		item = new MenuItem();
@@ -137,6 +137,8 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		if (paramAdapterView == this.menuGridview) {
 			localMenuItem = (MenuItem) this.mainItems.get(paramInt);
 			if (localMenuItem.getName().equals(Constant.CNN)){
+				openOtherApp(localMenuItem.getClassName());
+			}if (localMenuItem.getName().equals(Constant.EFFORTLESS)){
 				openOtherApp(localMenuItem.getClassName());
 			}else{
 				Intent localIntent = new Intent();

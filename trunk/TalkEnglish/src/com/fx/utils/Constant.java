@@ -11,6 +11,7 @@ public class Constant {
 	  public static final String CONVERSATION = "Conversation";
 	  public static final String DUNCAN = "Mr Duncan";
 	  public static final String EFFORTLESS = "Effortless";
+	  public static final String EFFORTLESS_APP = "com.fx.effortless";
 	  public static final String EXPRESS = "English Express";
 	  public static final String EXTRA = "English Extra";
 	  public static final String FASTENGLISH = "English Today";
