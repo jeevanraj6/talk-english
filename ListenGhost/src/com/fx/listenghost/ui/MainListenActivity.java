@@ -3,6 +3,7 @@ package com.fx.listenghost.ui;
 import java.util.ArrayList;
 import java.util.List;
 
+
 import com.fx.listenghost.R;
 import com.fx.listenghost.adapter.MainTalkAdapter;
 import com.fx.listenghost.model.TalkModel;
@@ -35,7 +36,7 @@ public class MainListenActivity extends Activity implements OnItemClickListener{
 	    this.mListview = ((ListView)findViewById(R.id.listView1));
 	    this.mListview.setAdapter(this.mMainTalkAdapter);
 	    this.mListview.setOnItemClickListener(this);
-	    this.mMainTalkAdapter = new MainTalkAdapter(this, initMenus(this.category), this.category);
+	    this.mMainTalkAdapter = new MainTalkAdapter(this, initMenus(this.category));
 	    this.mListview.setAdapter(this.mMainTalkAdapter);
 	    setTitle(this.category);
 	    this.adView = ((AdView)findViewById(R.id.maintalk_ad));
@@ -82,8 +83,13 @@ public class MainListenActivity extends Activity implements OnItemClickListener{
 	      localIntent.putExtra("TITLE", localTalkModel.getTitle());
 	      localIntent.putExtra("LINK", localTalkModel.getLinks());
 	      startActivity(localIntent);
-	      return;
+	      
+	    }else if(localTalkModel.getLinks().equals("null")){
+	    	Intent localIntent = new Intent(this, SubTalkActivity.class);
+			localIntent.putExtra("SUBCATEGORY", localTalkModel.getTitle());
+			startActivity(localIntent);
+	    }else{
+	    	startActivity(new Intent("android.intent.action.VIEW", Uri.parse("vnd.youtube:" + localTalkModel.getLinks())));
 	    }
-	    startActivity(new Intent("android.intent.action.VIEW", Uri.parse("vnd.youtube:" + localTalkModel.getLinks())));
 	  }
 }

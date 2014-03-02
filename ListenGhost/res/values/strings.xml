@@ -2,62 +2,154 @@
 
     <string name="app_name">Truyện ma hay nhat</string>
 	<string-array name="nnn_title">
-        <item>Tiếng quạ réo vong hồn P1</item>
-        <item>Tiếng quạ réo vong hồn P2</item>
-        <item>Cõi âm P1</item>
-        <item>Cõi âm P2</item>
-        <item>Cõi âm P3</item>
-        <item>Cõi âm P4</item>
-        <item>Cõi âm P5</item>
-        <item>Cõi âm P6</item>
-        <item>Cõi âm P7</item>
-        <item>Cõi âm P8</item>
-        <item>Ngôi mộ mới đắp P1</item>
-        <item>Ngôi mộ mới đắp P2</item>
-        <item>Đêm trong căn nhà hoang P1</item>
-        <item>Đêm trong căn nhà hoang P2</item>
-        <item>Bãi đất hoang sau nhà P1</item>
-        <item>Bãi đất hoang sau nhà P2</item>
-        <item>Căn nhà số 13</item>
-        <item>Bóng người dưới trăng P1</item>
-        <item>Bóng người dưới trăng P2</item>
-        <item>Bóng người dưới trăng P3</item>
-        <item>Bóng người dưới trăng P4</item>
+        <item>Tiếng quạ réo vong hồn</item>
+        <item>Cõi âm</item>
+        <item>Ngôi mộ mới đắp</item>
+        <item>Đêm trong căn nhà hoang</item>
+        <item>Bãi đất hoang sau nhà</item>
+        <item>Bóng người dưới trăng</item>
+        <item>Bóng ma bên cửa</item>
         <item>Hồn về trong gió</item>
         <item>Đêm không trăng</item>
         <item>Căn nhà số 24</item>
         <item>Quỷ nhập tràng</item>
-        <item>Bóng ma bên cửa</item>
     </string-array>
     <string-array name="nnn_link">
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/tieng-qua-reo-vong-hon-p1.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/tieng-qua-reo-vong-hon-p2.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p1.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p2.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p3.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p4.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p5.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p6.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p7.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/coi-am-p8.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/ngoi-mo-moi-dap-p1.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/ngoi-mo-moi-dap-p2.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/dem-trong-can-nha-hoang-p1.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/dem-trong-can-nha-hoang-p2.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/bai-dat-hoang-sau-nha-p1.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/bai-dat-hoang-sau-nha-p2.mp3</item>
-        <item>http://cdnport.com/radio/truyen-kinh-di/tong-hop-truyen-ma/can-nha-so-13.mp3</item>
-        <item>_YdLkIsx_Sw</item>
-        <item>1QJwSkhl2T4</item>
-        <item>TJrhpMQ0wMQ</item>
-        <item>FXUvPB3Brs8</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
         <item>yfa27wCdQkE</item>
         <item>o2feVvr0oD8</item>
         <item>jzFJVFZcMWg</item>
         <item>LlMYkEh2PsU</item>
-        <item>hh3-I1qamZk</item>
+        
+    </string-array>
+    <string-array name="tiengqua_title">
+        <item>Tiếng quạ réo vong hồn 1</item>
+        <item>Tiếng quạ réo vong hồn 2</item>
+        <item>Tiếng quạ réo vong hồn 3</item>
+        <item>Tiếng quạ réo vong hồn 4</item>
+        <item>Tiếng quạ réo vong hồn 5</item>
+    </string-array>
+    <string-array name="tiengqua_link">
+        <item>-hKe-o3MK9k</item>
+        <item>BwN1kIkBDSk</item>
+        <item>uzVZo5aX4r8</item>
+        <item>thhmN23tfFw</item>
+        <item>lG0Gmw7xbks</item>
+    </string-array>
+      <string-array name="bongnguoi_title">
+        <item>Bóng người dưới trăng 1</item>
+        <item>Bóng người dưới trăng 2</item>
+        <item>Bóng người dưới trăng 3</item>
+        <item>Bóng người dưới trăng 4</item>
+        <item>Bóng người dưới trăng 5</item>
+        <item>Bóng người dưới trăng 6</item>
+        <item>Bóng người dưới trăng 7</item>
+        <item>Bóng người dưới trăng 8</item>
+        <item>Bóng người dưới trăng 9</item>
+        <item>Bóng người dưới trăng 10</item>
+    </string-array>
+    <string-array name="bongnguoi_link">
+        <item>vP12k8sCCkw</item>
+        <item>WBGbZGiu9Qs</item>
+        <item>ZudmKD9bdDE</item>
+        <item>4q64vJ0MOb4</item>
+        <item>w_sli1Je5E4</item>
+        <item>2t6pjsojd30</item>
+        <item>rk7C_zvQ9vs</item>
+        <item>NGD6bsIslgs</item>
+        <item>mokAoIFnGSw</item>
+        <item>x7uI0FNiQ3s</item>
+    </string-array>
+   <string-array name="coiam_title">
+        <item>Cõi âm 1</item>
+        <item>Cõi âm 2</item>
+        <item>Cõi âm 3</item>
+        <item>Cõi âm 4</item>
+        <item>Cõi âm 5</item>
+        <item>Cõi âm 6</item>
+        <item>Cõi âm 7</item>
+        <item>Cõi âm 8</item>
+    </string-array>
+    <string-array name="coiam_link">
+        <item>HjdfYK_OQ6M</item>
+        <item>IW1Ha4prQX0</item>
+        <item>V4LrOainDvo</item>
+        <item>DuodxEpFt1U</item>
+        <item>ukXoecfEkpo</item>
+        <item>g9bj78ldevg</item>
+        <item>IfCO8-giToY</item>
+        <item>eMQITedkiSc</item>
+    </string-array>
+    <string-array name="bongma_tile">
+        <item>Bóng ma bên cửa 1</item>
+        <item>Bóng ma bên cửa 2</item>
+        <item>Bóng ma bên cửa 3</item>
+        <item>Bóng ma bên cửa 4</item>
+        <item>Bóng ma bên cửa 5</item>
+    </string-array>
+    <string-array name="bongma_link">
+        <item>-FMwDcxkO1Q</item>
+        <item>eDGpZiN1Zp0</item>
+        <item>viUjCSLtoCk</item>
+        <item>TUl5ZbA9utY</item>
+        <item>TUl5ZbA9utY</item>
+    </string-array>
+    <string-array name="baidat_title">
+        <item>Bãi đất hoang sau nhà 1</item>
+        <item>Bãi đất hoang sau nhà 2</item>
+        <item>Bãi đất hoang sau nhà 3</item>
+        <item>Bãi đất hoang sau nhà 4</item>
+        <item>Bãi đất hoang sau nhà 5</item>
+        <item>Bãi đất hoang sau nhà 6</item>
+    </string-array>
+     <string-array name="baidat_link">
+        <item>l1vEEcWXWTI</item>
+        <item>whvfI7zTWkc</item>
+        <item>8qm3gU6zhgw</item>
+        <item>jIS-OkvGeIE</item>
+        <item>qGh0siCBMQ8</item>
+        <item>qGh0siCBMQ8</item>
+    </string-array>
+     <string-array name="ngoimo_title">
+        <item>Ngôi mộ mới đắp 1</item>
+        <item>Ngôi mộ mới đắp 2</item>
+        <item>Ngôi mộ mới đắp 3</item>
+        <item>Ngôi mộ mới đắp 4</item>
+        <item>Ngôi mộ mới đắp 5</item>
+    </string-array>
+    <string-array name="ngoimo_link">
+        <item>Z6Mn1bkP9CU</item>
+        <item>vJ_8zyiuEf0</item>
+        <item>H-kaIq_mtwo</item>
+        <item>-zbi0VIDfJQ</item>
+        <item>pTE4Z88X0-A</item>
+    </string-array>
+    <string-array name="demtrong_tile">
+        <item>Đêm trong căn nhà hoang 1</item>
+        <item>Đêm trong căn nhà hoang 2</item>
+        <item>Đêm trong căn nhà hoang 3</item>
+        <item>Đêm trong căn nhà hoang 4</item>
+        <item>Đêm trong căn nhà hoang 5</item>
+    </string-array>
+     <string-array name="demtrong_link">
+        <item>CSqvaLDmpKE</item>
+        <item>Cc9UuLxZyz8</item>
+        <item>b0qy3jzE72s</item>
+        <item>nqMjgg1Mm74</item>
+        <item>c7Z4a8XBHiQ</item>
     </string-array>
     <string-array name="other_title">
+        <item>Người về từ đáy mộ</item>
+        <item>Nàng dâu âm phủ P1</item>
+        <item>Nàng dâu âm phủ P2</item>
+        <item>Âm hồn trừng phạt P1</item>
+        <item>Âm hồn trừng phạt P1</item>
         <item>Pho tượng đồng báo oán P1</item>
         <item>Pho tượng đồng báo oán P2</item>
         <item>Pho tượng đồng báo oán P3</item>
@@ -117,6 +209,11 @@
         <item>Đề thi đãm máu P8</item>
     </string-array>
     <string-array name="other_link">
+        <item>http://cdnport.com/radio/truyen-kinh-di/nguoi-ve-tu-day-mo.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/nang-dau-am-phu/nang-dau-am-phu-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/nang-dau-am-phu/nang-dau-am-phu-p2end.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/am-hon-trung-phat/am-hon-trung-phat-p1.mp3</item>
+        <item>http://cdnport.com/radio/truyen-kinh-di/am-hon-trung-phat/am-hon-trung-phat-p2end.mp3</item>
         <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p1.mp3</item>
         <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p2.mp3</item>
         <item>http://cdnport.com/radio/truyen-kinh-di/pho-tuong-dong-bao-oan/pho-tuong-dong-bao-oan-p3.mp3</item>
