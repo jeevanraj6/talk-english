@@ -9,4 +9,5 @@ public class Constant {
 	public static final String OTHERSTORY = "Truyện ma tuyển chọn";
 	public static final String TEXTSTORYAPP = "Đọc truyện ma";
 	public static final String TITLE = "TITLE";
+	
 }

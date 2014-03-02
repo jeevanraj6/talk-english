@@ -14,15 +14,13 @@ import android.widget.TextView;
 
 public class MainTalkAdapter extends BaseAdapter{
 
-	 private String cate;
 	  private Context context;
 	  private List<TalkModel> menuItems;
 	  
-	  public MainTalkAdapter(Context paramContext, List<TalkModel> paramList, String paramString)
+	  public MainTalkAdapter(Context paramContext, List<TalkModel> paramList)
 	  {
 	    this.menuItems = paramList;
 	    this.context = paramContext;
-	    this.cate = paramString;
 	  }
 	  
 	  public int getCount()
