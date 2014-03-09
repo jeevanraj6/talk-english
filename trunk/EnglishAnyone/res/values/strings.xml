@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">English Anyone</string>
+
+    <string-array name="simple_tile">
+        <item>Singular and Plural Nouns</item>
+        <item>Rules for Plural Forms of Irregular Nouns</item>
+        <item>Adjectives, Colors and Conjunctions</item>
+        <item>Pronouns (I, you, he, she, it, we and they)</item>
+        <item>The Verb To be (am, are and is) and Emotions</item>
+        <item> a/an vs. the</item>
+        <item>To be and Contractions (I\'m, you\'re, n\'t)</item>
+        <item>This, That, These, Those, Here and There </item>
+        <item>Possessive Pronouns (my, mine, your, \'s)</item>
+        <item> To Do, Present Simple and The Imperative</item>
+        <item>a/an vs. the (Rule 2) English Articles</item>
+        <item> Prepositions of Place and Location (Where?)</item>
+        <item> Conjugating Verbs in Simple Present</item>
+        <item>Weather, Counting, Time and The Calendar</item>
+        <item>Simple Past and Simple Future Verbs</item>
+        <item>Past, Present and Future Continuous</item>
+        <item>Can, Could, Be Able To and May</item>
+        <item>Prepositions of Place and Movement</item>
+        <item>Adverbs of Frequency, Time, Manner and Place</item>
+    </string-array>
+     <string-array name="simple_link">
+        <item>Rp3LqMYBhkQ</item>
+        <item>uEQDOHcUXaE</item>
+        <item>xTlQteeV-fs</item>
+        <item>tjf6rzWOAxc</item>
+        <item>70H-Wwx4B64</item>
+        <item>urq83C363uM</item>
+        <item>8c-8WjfkquQ</item>
+        <item>cizn1SlqJLI</item>
+        <item>_SBCVMw1gjo</item>
+        <item>jz9u2hUpod0</item>
+        <item>69CRzyTYFJI</item>
+        <item>TM3w572fL4w</item>
+        <item>WH8-36xR2cU</item>
+        <item>OYh7Ujh7LZg</item>
+        <item>t8gZm2kXyow</item>
+        <item>oNwwsDQmY1Q</item>
+        <item>APGhPBiAMrs</item>
+        <item>Fs66s0QY8-0</item>
+        <item>PKNMhPWBvkA</item>
+    </string-array>
+</resources>
