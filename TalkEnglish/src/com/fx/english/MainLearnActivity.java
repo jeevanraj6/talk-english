@@ -40,41 +40,41 @@ public class MainLearnActivity extends Activity implements OnItemClickListener {
 	private List<MenuItem> initMenus() {
 		this.mainItems = new ArrayList();
 		
-		MenuItem item = new MenuItem();
-		item.setName(Constant.BBCNEWS);
-		item.setIllustrationId(R.drawable.bbcmain);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.PRONOUN);
-		item.setIllustrationId(R.drawable.pronunciation);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.EXPRESS);
-		item.setIllustrationId(R.drawable.express);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.FLATMATE);
-		item.setIllustrationId(R.drawable.flatmate);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.RINKU);
-		item.setIllustrationId(R.drawable.rinku);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.IDIOM);
-		item.setIllustrationId(R.drawable.food);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
+//		MenuItem item = new MenuItem();
+//		item.setName(Constant.BBCNEWS);
+//		item.setIllustrationId(R.drawable.bbcmain);
+//		item.setClassName(MainTalkActivity.class.getName());
+//		this.mainItems.add(item);
+//		
+//		item = new MenuItem();
+//		item.setName(Constant.PRONOUN);
+//		item.setIllustrationId(R.drawable.pronunciation);
+//		item.setClassName(MainTalkActivity.class.getName());
+//		this.mainItems.add(item);
+//		
+//		item = new MenuItem();
+//		item.setName(Constant.EXPRESS);
+//		item.setIllustrationId(R.drawable.express);
+//		item.setClassName(MainTalkActivity.class.getName());
+//		this.mainItems.add(item);
+//		
+//		item = new MenuItem();
+//		item.setName(Constant.FLATMATE);
+//		item.setIllustrationId(R.drawable.flatmate);
+//		item.setClassName(MainTalkActivity.class.getName());
+//		this.mainItems.add(item);
+//		
+//		item = new MenuItem();
+//		item.setName(Constant.RINKU);
+//		item.setIllustrationId(R.drawable.rinku);
+//		item.setClassName(MainTalkActivity.class.getName());
+//		this.mainItems.add(item);
+//		
+//		item = new MenuItem();
+//		item.setName(Constant.IDIOM);
+//		item.setIllustrationId(R.drawable.food);
+//		item.setClassName(MainTalkActivity.class.getName());
+//		this.mainItems.add(item);
 		return this.mainItems;
 	}
 

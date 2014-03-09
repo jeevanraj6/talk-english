@@ -73,6 +73,12 @@
         <item>English Conversation 03</item>
         <item>English Conversation 04</item>
         <item>English Conversation 05</item>
+        <item>English Conversation 06</item>
+        <item>English Conversation 07</item>
+        <item>English Conversation 08</item>
+        <item>English Conversation 09</item>
+        <item>English Conversation 10</item>
+        
     </string-array>
     <string-array name="conv_links">
         <item>UlSVe2ehjls</item>
@@ -80,6 +86,11 @@
         <item>dWQqH90L494</item>
         <item>wiPcUVx14eI</item>
         <item>NHPuByS-SCQ</item>
+        <item>cfZ3ryr68d8</item>
+        <item>Fm_4-KL2XBA</item>
+        <item>ovkBudUGxP8</item>
+        <item>IUJF9a2LhQ</item>
+        <item>iaPMSzZoHSU</item>
     </string-array>
     <string-array name="extra_titles">
         <item>01 - Hector goes shopping</item>
@@ -352,431 +363,7 @@
         <item>50KlmXbzjkY</item>
         <item>d6s2nhvLgY4</item>
     </string-array>
-    <string-array name="bbc_news_titles">
-        <item>BBC News Day of the Dead celebrations in Latin America</item>
-        <item>Arsenal v Liverpool: Luis Suárez questions deflected by Arsène Wenger</item>
-        <item>BBC News Pakistan Taliban say leader Mehsud killed by drone</item>
-        <item>BBC News Soldier takes to air years after escaping burning vehicle</item>
-        <item>"Islamists 'behind Tiananmen crash' BBC News"</item>
-        <item>Milwaukee car chase and crash captured by police dashboard camera</item>
-        <item>"BBC News Diwali in Singapore's Little India"</item>
-        <item>BBC News America)Aerial footage from M25 crash site</item>
-        <item>BBC News Bosnia mass grave could be largest</item>
-        <item>Obamacare boost to Indian pharmaceutical industry</item>
-        <item>Increasing understanding of Indias homeless</item>
-        <item>Warships join Sydney Harbour flotilla</item>
-        <item>World Cup 2022 Fifa taskforce to seek new dates</item>
-        <item>Pope Francis visits namesakes shrine at Assisi</item>
-        <item>"Bollywood star Anil Kapoor launches India's version of 24"</item>
-        <item>"Italy's awkward coalition crumbles"</item>
-        <item>Morecambe Bays Queens Guide to the Sands on why he loves his job</item>
-        <item>Conservative conference UKIP links and Cameron survey</item>
-        <item>Couples campaign for blind cord safety</item>
-        <item>Pakistan market bomb Dozens die in Peshawar blast</item>
-        <item>Conservatives bring Help to Buy scheme forward</item>
-        <item>End war on drugs, says Durham Police chief Mike Barton</item>
-        <item>Italy government resignation sparks crisis</item>
-        <item>Should the rules of war be included in computer games</item>
-        <item>TechBytes Google, Apple iOS7</item>
-        <item>Former President George W. Bush talks about his passion project.</item>
-        <item>Alleged Miss Teen USA Extortionist Arrested</item>
-        <item>Three Year Old Calls 911 For Mom</item>
-        <item>Japan welcomes UN Syria resolution</item>
-        <item>Waste water decontamination suspended</item>
-        <item>First Japan China ministerial meet in a year</item>
-        <item>Culture ministers from Japan, China, S Korea meet</item>
-        <item>OPCW approves Syria chemical arms disposal plan</item>
-        <item>UN Security Council adopts Syria resolution</item>
-        <item>Syria envoy vows cooperation over chemical arms</item>
-        <item>NASA Hispanic Heritage Month Profile Jose Lopez , NASA Shar</item>
-        <item>David Cameron rules out Conservative pact with UKIP</item>
-        <item>Father s faith helping with fire deaths tragedy</item>
-        <item>Obama Speaks With Iranian President on the Phone</item>
-        <item>Obama and Rouhani spoke on phone about nuclear issue</item>
-        <item>Precious Jewels Found on French Mountain</item>
-        <item>Shinzo Abe I got message across to the world</item>
-        <item>Japan considers $16 bil tax breaks for businesses</item>
-        <item>TEPCO seeks screening toward Niigata plant restart</item>
-        <item>US court orders asset freeze on MRI International</item>
-        <item>Iran, 6 powers to meet again in Oct</item>
-        <item>Mizuho Bank ordered to improve loan practices</item>
-        <item>UNSC likely to vote on Syrian resolution</item>
-        <item>Panama fines detained N Korean ship for smuggling</item>
-        <item>"Syrians facing 'mass starvation'"</item>
-        <item>Israelis defy al Aqsa mosque ban</item>
-        <item>"Discussion on Egypt's fresh anti coup protests"</item>
-        <item>Al Jazeera speaks to Syrian FM at UN</item>
-        <item>Iranians react to US-Iran meeting</item>
-        <item>UN Extremely likely global warming man made</item>
-    </string-array>
-    <string-array name="bbc_news_links">
-        <item>AitWZ2G-BVM</item>
-        <item>fv22k9oU4vs</item>
-        <item>Eds8mwSvyy8</item>
-        <item>3mPTw2NsTic</item>
-        <item>wDGyTyJezxA</item>
-        <item>ru8S0x3zVd4</item>
-        <item>QvZ0Vk4sqVY</item>
-        <item>2QGpAxtQPG0</item>
-        <item>YBoSwwp7PWQ</item>
-        <item>RpaSQhJdb1I</item>
-        <item>eikeViF5saA</item>
-        <item>5SzTYZMHopg</item>
-        <item>Br34JPZOyJM</item>
-        <item>HGPbXf1DUgo</item>
-        <item>oHbyiMCu6sE</item>
-        <item>mzZcjc1JBrQ</item>
-        <item>y2jpy2eHEmY</item>
-        <item>9b_6iRJNuVM</item>
-        <item>oXsoB_y2pY8</item>
-        <item>tragqWZ7obA</item>
-        <item>v3S0h990bdU</item>
-        <item>TLSRqjnRgdk</item>
-        <item>2ESGIZzoXwM</item>
-        <item>Ea_qVUdtLq0</item>
-        <item>GEqKRma45p4</item>
-        <item>BSuf8Y1V-vk</item>
-        <item>n3QaWQ-vXYY</item>
-        <item>dPQZqeGTLGI</item>
-        <item>REukYR4jO0o</item>
-        <item>Hn2muYzg_Wo</item>
-        <item>TQVlk-ZNDaw</item>
-        <item>GwBCCMUF8zI</item>
-        <item>xOI2zyOV840</item>
-        <item>oDk3-rATj04</item>
-        <item>ZofmFA-TF98</item>
-        <item>1lqXtwuE6AE</item>
-        <item>CTBpZuz0TbQ</item>
-        <item>HAp-U7o6hiU</item>
-        <item>3RqZuS-TZmk</item>
-        <item>_w-CBEhcr6Q</item>
-        <item>dz7YlmUCbcE</item>
-        <item>oNnyJ1DUdWw</item>
-        <item>JvKHH16ANUM</item>
-        <item>8FlDzI1wmqI</item>
-        <item>ax5OjnMjTVE</item>
-        <item>dqDjG-5q1EA</item>
-        <item>-BGtO5dpw-Y</item>
-        <item>HpegFTNEWf4</item>
-        <item>USr8-4CN3qU</item>
-        <item>m--_nkeFCxA</item>
-        <item>446YkRsu5R8</item>
-        <item>9Ax5QKT2iV8</item>
-        <item>H7SF7e-eEYY</item>
-        <item>tAEhQ42uNr4</item>
-        <item>rBNxAsiqfS4</item>
-    </string-array>
-    <string-array name="pronoun_title">
-        <item>Pronunciation Tips 1</item>
-        <item>Pronunciation Tips 2</item>
-        <item>Pronunciation Tips 3</item>
-        <item>Pronunciation Tips 4</item>
-        <item>Pronunciation Tips 5</item>
-        <item>Pronunciation Tips 6</item>
-        <item>Pronunciation Tips 7</item>
-        <item>Pronunciation Tips 8</item>
-        <item>Pronunciation Tips 9</item>
-        <item>Pronunciation Tips 10</item>
-        <item>Pronunciation Tips 11</item>
-        <item>Pronunciation Tips 12</item>
-        <item>Pronunciation Tips 13</item>
-        <item>Pronunciation Tips 14</item>
-        <item>Pronunciation Tips 15</item>
-        <item>Pronunciation Tips 16</item>
-        <item>Pronunciation Tips 17</item>
-        <item>Pronunciation Tips 18</item>
-        <item>Pronunciation Tips 19</item>
-        <item>Pronunciation Tips 20</item>
-        <item>Pronunciation Tips 21</item>
-        <item>Pronunciation Tips 22</item>
-        <item>Pronunciation Tips 23</item>
-        <item>Pronunciation Tips 24</item>
-        <item>Pronunciation Tips 25</item>
-        <item>Pronunciation Tips 26</item>
-        <item>Pronunciation Tips 27</item>
-        <item>Pronunciation Tips 28</item>
-        <item>Pronunciation Tips 29</item>
-        <item>Pronunciation Tips 30</item>
-        <item>Pronunciation Tips 31</item>
-        <item>Pronunciation Tips 32</item>
-        <item>Pronunciation Tips 33</item>
-        <item>Pronunciation Tips 34</item>
-        <item>Pronunciation Tips 35</item>
-        <item>Pronunciation Tips 36</item>
-        <item>Pronunciation Tips 37</item>
-    </string-array>
-    <string-array name="pronoun_link">
-        <item>gcgfX0NsXfE</item>
-        <item>E76JUyiA3QE</item>
-        <item>cYYwxN9FOas</item>
-        <item>4leCPVi9t5A</item>
-        <item>WECe0GrsePs</item>
-        <item>Lb3L3m4NWtM</item>
-        <item>SVDcBa8VmhE</item>
-        <item>qmDt4sD3L7U</item>
-        <item>S2UUV-5FiR0</item>
-        <item>kGGv3Neuyfk</item>
-        <item>u5DMsIvx0lI</item>
-        <item>9oIBaEh2tm0</item>
-        <item>9-w1R1B10uQ</item>
-        <item>MPcBCwa2tkg</item>
-        <item>p4q_QkLUCwA</item>
-        <item>t4G-QNqBI4M</item>
-        <item>lMqfBs7V4OY</item>
-        <item>qifGMZPn-aM</item>
-        <item>1tYkZiC8Bwc</item>
-        <item>1GFJ1IaBsa8</item>
-        <item>9_n8ry0dxM8</item>
-        <item>d399YwS0vEA</item>
-        <item>DkHRMzoUVbY</item>
-        <item>y31irMMkzw4</item>
-        <item>WsCPWWo5EbY</item>
-        <item>RVaatq7ia1M</item>
-        <item>6PimrGPA9h8</item>
-        <item>xofBJ0q_cOo</item>
-        <item>ZL4iAeKYzVw</item>
-        <item>iipt2yeovtI</item>
-        <item>r8c__W7pzQk</item>
-        <item>enUqf_sxjQ8</item>
-        <item>u0ZVfUv8SZo</item>
-        <item>rzSJdtmt-Bw</item>
-        <item>C5p8LDr98mc</item>
-        <item>z5DarE8REQo</item>
-        <item>qigGQAvIuaM</item>
-    </string-array>
-    <string-array name="express_titles">
-        <item>Express English: Dating</item>
-        <item>Express English: Three Wishes</item>
-        <item>Express English: Jealousy</item>
-        <item>Express English: Dancing</item>
-        <item>Express English: Freedom</item>
-        <item>Express English: Personality</item>
-        <item>Express English: Dreams</item>
-        <item>Express English: Bridges</item>
-        <item>Express English: Anger</item>
-        <item>Express English: Computer games</item>
-        <item>Express English: Football</item>
-        <item>Express English: Honesty</item>
-        <item>Express English: Hope</item>
-        <item>Express English: Passions</item>
-        <item>Express English: Proposals</item>
-        <item>Express English: Shopping</item>
-        <item>Express English: Awards</item>
-        <item>English Express: Photographs</item>
-        <item>Express English: Success</item>
-        <item>English Express: Love</item>
-        <item>Express English: Your ideal trip</item>
-        <item>Express English: University life</item>
-        <item>Express English: Flowers</item>
-        <item>Express English: Lessons for life</item>
-        <item>Express English: Television</item>
-        <item>Express English: Worry</item>
-        <item>Express English: Fairy tales</item>
-        <item>Express English: Happy Kids</item>
-        <item>Express English: Unhappy children</item>
-        <item>Express English: Boxing</item>
-    </string-array>
-    <string-array name="express_links">
-        <item>kHj13Vx_4LI</item>
-        <item>wJ4vmSzhhtw</item>
-        <item>r8gzdOZzo0E</item>
-        <item>aw-T8Cws3VU</item>
-        <item>5ol8yC9FaMc</item>
-        <item>EuaZaN60nvQ</item>
-        <item>u_dfkyJlpPo</item>
-        <item>oW544NQ890s</item>
-        <item>JMzWfXf0AY4</item>
-        <item>UHYFtYpXL70</item>
-        <item>IfW2U_bqa1c</item>
-        <item>bMtljoUWE0M</item>
-        <item>fUIrXA82lXs</item>
-        <item>cxfWdeWbqy4</item>
-        <item>bERZjMOhFsY</item>
-        <item>X5qiBigtc8w</item>
-        <item>92ztMpOKyW4</item>
-        <item>AN8S3zDTWqs</item>
-        <item>_DWLSuMNarw</item>
-        <item>21LVfcbmg2k</item>
-        <item>KdOzwV11m54</item>
-        <item>Tr4mMhV-Ny8</item>
-        <item>VCeqdnELMIg</item>
-        <item>X0P7EQ1Hajc</item>
-        <item>0W0ZR_Uyjxw</item>
-        <item>j_aDopmTcw0</item>
-        <item>VpaV9BaVafQ</item>
-        <item>X-vlYIz7YJg</item>
-        <item>Edbk5rdGJoM</item>
-        <item>KbGVtF4Y-TI</item>
-    </string-array>
-    <string-array name="rinku_titles">
-        <item>"Rinku's World. Episode 1."</item>
-        <item>"Rinku's World. Episode 2."</item>
-        <item>"Rinku's World. Episode 3."</item>
-        <item>"Rinku's World. Episode 4."</item>
-        <item>"Rinku's World. Episode 5."</item>
-        <item>"Rinku's World. Episode 6."</item>
-        <item>"Rinku's World. Episode 7."</item>
-        <item>"Rinku's World. Episode 8."</item>
-    </string-array>
-    <string-array name="rinku_links">
-        <item>qcc99uZDAFo</item>
-        <item>boNdUQBp2JI</item>
-        <item>zkrxSAQaMkQ</item>
-        <item>CcATYN2hYrc</item>
-        <item>f4aHjsJecMo</item>
-        <item>l9VmCYZ8UsY</item>
-        <item>B-aexHFnVwY</item>
-        <item>TqDJuImERXo</item>
-    </string-array>
-    <string-array name="flatmate_title">
-        <item>The Flatmates episode 1</item>
-        <item>The Flatmates episode 2</item>
-        <item>The Flatmates episode 3</item>
-        <item>The Flatmates episode 4</item>
-        <item>The Flatmates episode 5</item>
-        <item>The Flatmates episode 6</item>
-        <item>The Flatmates episode 7</item>
-        <item>The Flatmates episode 8</item>
-        <item>The Flatmates episode 9</item>
-        <item>The Flatmates episode 10</item>
-        <item>The Flatmates episode 11</item>
-        <item>The Flatmates episode 12</item>
-        <item>The Flatmates episode 13</item>
-        <item>The Flatmates episode 14</item>
-        <item>The Flatmates episode 15</item>
-        <item>The Flatmates episode 16</item>
-        <item>The Flatmates episode 17</item>
-        <item>The Flatmates episode 18</item>
-        <item>The Flatmates episode 19</item>
-        <item>The Flatmates episode 20</item>
-        <item>The Flatmates episode 21</item>
-        <item>The Flatmates episode 22</item>
-        <item>The Flatmates episode 23</item>
-        <item>The Flatmates episode 24</item>
-        <item>The Flatmates episode 25</item>
-        <item>The Flatmates episode 26</item>
-        <item>The Flatmates episode 27</item>
-        <item>The Flatmates episode 28</item>
-        <item>The Flatmates episode 29</item>
-        <item>The Flatmates episode 30</item>
-        <item>The Flatmates episode 31</item>
-        <item>The Flatmates episode 32</item>
-        <item>The Flatmates episode 33</item>
-        <item>The Flatmates episode 34</item>
-        <item>The Flatmates episode 35</item>
-        <item>The Flatmates episode 36</item>
-        <item>The Flatmates episode 37</item>
-        <item>The Flatmates episode 38</item>
-        <item>The Flatmates episode 39</item>
-        <item>The Flatmates episode 40</item>
-        <item>The Flatmates episode 41</item>
-        <item>The Flatmates episode 42</item>
-        <item>The Flatmates episode 43</item>
-        <item>The Flatmates episode 44</item>
-        <item>The Flatmates episode 45</item>
-        <item>The Flatmates episode 46</item>
-        <item>The Flatmates episode 47</item>
-        <item>The Flatmates episode 48</item>
-        <item>The Flatmates episode 49</item>
-        <item>The Flatmates episode 50</item>
-        <item>The Flatmates episode 51</item>
-        <item>The Flatmates episode 52</item>
-        <item>The Flatmates episode 53</item>
-        <item>The Flatmates episode 54</item>
-        <item>The Flatmates episode 55</item>
-        <item>The Flatmates episode 56</item>
-        <item>The Flatmates episode 57</item>
-        <item>The Flatmates episode 58</item>
-    </string-array>
-    <string-array name="flatmate_links">
-        <item>vAi1JlMIQVM</item>
-        <item>-ivj3oFFqkE</item>
-        <item>0AASCQNCo-o</item>
-        <item>lUs4Ntcq4HQ</item>
-        <item>LK21DOazMNM</item>
-        <item>2y5cyXRLhyQ</item>
-        <item>aaShxGEIhHM</item>
-        <item>eUXmur5a_4I</item>
-        <item>fyrY4aL3L70</item>
-        <item>6hFe5WBLLdE</item>
-        <item>2GaNHvrGZO0</item>
-        <item>zFQMs23sJSs</item>
-        <item>Xz-kMbUKMyA</item>
-        <item>kCkvA-XUOJo</item>
-        <item>FJeeRu7FBXQ</item>
-        <item>G_6Bo1gss08</item>
-        <item>OQ-e_34XSvc</item>
-        <item>oxyYG4c8jQg</item>
-        <item>L7GJTOoPT8Y</item>
-        <item>Dfq-9tl_eoc</item>
-        <item>BKpnVtDudKw</item>
-        <item>9EZdkyAMTuk</item>
-        <item>78Z_YNgLaM0</item>
-        <item>0DwKMYsZh1s</item>
-        <item>nd_TI0ml_F8</item>
-        <item>ECwgMZj-hqg</item>
-        <item>lkatSbcyMrE</item>
-        <item>8z9u1D48RZs</item>
-        <item>i-02ONXwz1I</item>
-        <item>VNrLTk5uRt8</item>
-        <item>AUCLK-fFMWQ</item>
-        <item>miItT8tDVUA</item>
-        <item>LKk4F6AzfGo</item>
-        <item>oobTXLkYZ1U</item>
-        <item>KEoRQwyz9YA</item>
-        <item>_sRN7o31si4</item>
-        <item>BMEkLQGT-Wk</item>
-        <item>h2ADnYDPSso</item>
-        <item>28Dil2X2jEI</item>
-        <item>koqPn69teCI</item>
-        <item>9yCZ_SlCW4E</item>
-        <item>a7AwMHrfD7c</item>
-        <item>KJSJmHmA4dw</item>
-        <item>fgBZ7dgGGOY</item>
-        <item>NRO4KHrMCL8</item>
-        <item>ADuH5lfj7Pw</item>
-        <item>MxXJcCi6jxs</item>
-        <item>Ty_mnm6MmCg</item>
-        <item>woMP7beoHUU</item>
-        <item>S0p6ohXNHIA</item>
-        <item>ZJEY8R_h1v8</item>
-        <item>bwBAd-I0Hu8</item>
-        <item>6GvoZQFPqAU</item>
-        <item>yAyPyaZcLoQ</item>
-        <item>32ESFQUVVrA</item>
-        <item>jN9UhXvVjDI</item>
-        <item>SEeRY7cB4oA</item>
-        <item>FhaAHIlE0aU</item>
-        <item>FhaAHIlE0aU</item>
-    </string-array>
-    <string-array name="idioms_title">
-        <item>Fruit Idioms</item>
-        <item>Tea Idioms</item>
-        <item>Pie Idioms</item>
-        <item>Bean Idioms</item>
-        <item>Vegetable Idioms</item>
-        <item>Egg Idioms</item>
-        <item>Boat Idioms</item>
-        <item>Drive Idioms</item>
-        <item>Mile Idioms</item>
-        <item>Wheel Idioms</item>
-        <item>Road Idioms</item>
-        <item>Wagon Idioms</item>
-    </string-array>
-    <string-array name="idioms_links">
-        <item>xWVbSX8QVNI</item>
-        <item>WSPR0572glk</item>
-        <item>X1DtDh6x2PA</item>
-        <item>GRLQX4SiK0c</item>
-        <item>b2CGYBvC_jM</item>
-        <item>B-g8ahW1UHM</item>
-        <item>1LOiHFqUDPQ</item>
-        <item>Tp9N1k3PwHo</item>
-        <item>WT6xeuql_IM</item>
-        <item>nnJnnnhbnrM</item>
-        <item>sfR0WnI6dPY</item>
-        <item>dtNlM-NG7Z4</item>
-    </string-array>
+   
     <string-array name="duncan_titles">
         <item>Learning English-Lesson 1</item>
         <item>Learning English-Lesson 2</item>
@@ -946,6 +533,53 @@
         <item>mq9V2URMceA</item>
         <item>_AiNMPggXEY</item>
         <item>njNQepB4YFw</item>
+    </string-array>
+    <string-array name="speaking_title">
+        <item>Learn English Speaking 01</item>
+        <item>Learn English Speaking 02</item>
+        <item>Learn English Speaking 03</item>
+        <item>Learn English Speaking 04</item>
+        <item>Learn English Speaking 05</item>
+        <item>Learn English Speaking 06</item>
+        <item>Learn English Speaking 07</item>
+        <item>Learn English Speaking 08</item>
+        <item>Learn English Speaking 10</item>
+        <item>Learn English Speaking 11</item>
+        <item>Learn English Speaking 12</item>
+        <item>Learn English Speaking 13</item>
+        <item>Learn English Speaking 14</item>
+        <item>Learn English Speaking 15</item>
+        <item>Learn English Speaking 16</item>
+        <item>Learn English Speaking 17</item>
+        <item>Learn English Speaking 18</item>
+        <item>Learn English Speaking 19</item>
+        <item>Learn English Speaking 20</item>
+        <item>Learn English Speaking 21</item>
+        <item>Learn English Speaking 22</item>
+    </string-array>
+    <string-array name="speaking_link">
+        <item>loNGxjKkMgE</item>
+        <item>4wE9LOKTT-E</item>
+        <item>de_nb969txM</item>
+        <item>00oRxjpPgGY</item>
+        <item>3-7d6CMJz6M</item>
+        <item>lbqOnmLgRCw</item>
+        <item>R-4hqR1B67s</item>
+        <item>XvhHyF-B_Mg</item>
+        <item>06wrpBPbLY0</item>
+        <item>yjEhYZi4HZg</item>
+        <item>f9m-jEXKE4c</item>
+        <item>D4XzAZUw7CU</item>
+        <item>81R80y3ymC4</item>
+        <item>BWztfeAzbb4</item>
+        <item>GHuWt7WaNxA</item>
+        <item>ggWhak1ECxw</item>
+        <item>B7fZqp8RnTc</item>
+        <item>MnLigRvkYJs</item>
+        <item>N2gxu_RhSTQ</item>
+        <item>M6_vWfPZKxM</item>
+        <item>7KrduyufsQE</item>
+        <item>jeAtgqQtgNA</item>
     </string-array>
 </resources>
 
