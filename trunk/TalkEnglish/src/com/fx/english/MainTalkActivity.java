@@ -69,27 +69,12 @@ public class MainTalkActivity extends Activity implements OnItemClickListener{
 		}else if(paramString.equals(Constant.LESSON)){
 			arraylinks = getResources().getStringArray(R.array.improve_links);
 			arraytitles = getResources().getStringArray(R.array.improve_titles);
-		}else if(paramString.equals(Constant.BBCNEWS)){
-			arraylinks = getResources().getStringArray(R.array.bbc_news_links);
-			arraytitles = getResources().getStringArray(R.array.bbc_news_titles);
-		}else if(paramString.equals(Constant.EXPRESS)){
-			arraylinks = getResources().getStringArray(R.array.express_links);
-			arraytitles = getResources().getStringArray(R.array.express_titles);
-		}else if(paramString.equals(Constant.RINKU)){
-			arraylinks = getResources().getStringArray(R.array.rinku_links);
-			arraytitles = getResources().getStringArray(R.array.rinku_titles);
-		}else if(paramString.equals(Constant.FLATMATE)){
-			arraylinks = getResources().getStringArray(R.array.flatmate_links);
-			arraytitles = getResources().getStringArray(R.array.flatmate_title);
-		}else if(paramString.equals(Constant.IDIOM)){
-			arraylinks = getResources().getStringArray(R.array.idioms_links);
-			arraytitles = getResources().getStringArray(R.array.idioms_title);
-		}else if(paramString.equals(Constant.PRONOUN)){
-			arraylinks = getResources().getStringArray(R.array.pronoun_link);
-			arraytitles = getResources().getStringArray(R.array.pronoun_title);
 		}else if(paramString.equals(Constant.DUNCAN)){
 			arraylinks = getResources().getStringArray(R.array.duncan_links);
 			arraytitles = getResources().getStringArray(R.array.duncan_titles);
+		}else if(paramString.equals(Constant.SPEAKING)){
+			arraylinks = getResources().getStringArray(R.array.speaking_link);
+			arraytitles = getResources().getStringArray(R.array.speaking_title);
 		}
 		if (arraylinks != null && arraytitles != null) {
 			int i = Math.min(arraylinks.length, arraytitles.length);
@@ -119,9 +104,9 @@ public class MainTalkActivity extends Activity implements OnItemClickListener{
 			localIntent.putExtra("SUBCATEGORY", localTalkModel.getTitle());
 			localIntent.putExtra("CATEGORY", this.category);
 			startActivity(localIntent);
-			return;
-		}
-		startActivity(new Intent("android.intent.action.VIEW",
+		}else{
+			startActivity(new Intent("android.intent.action.VIEW",
 				Uri.parse("vnd.youtube:" + localTalkModel.getLinks())));
+		}
 	}
 }

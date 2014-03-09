@@ -62,7 +62,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		item = new MenuItem();
 		item.setName(Constant.BBC_ENGLISH);
 		item.setIllustrationId(R.drawable.bbc);
-		item.setClassName(MainLearnActivity.class.getName());
+		item.setClassName(Constant.BBC_APP);
 		this.mainItems.add(item);
 
 		item = new MenuItem();
@@ -102,9 +102,9 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		this.mainItems.add(item);
 
 		item = new MenuItem();
-		item.setName(Constant.CNN);
-		item.setIllustrationId(R.drawable.cnn);
-		item.setClassName(Constant.CNN_APP);
+		item.setName(Constant.SPEAKING);
+		item.setIllustrationId(R.drawable.speaking);
+		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		return this.mainItems;
 	}
@@ -138,14 +138,14 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		MenuItem localMenuItem;
 		if (paramAdapterView == this.menuGridview) {
 			localMenuItem = (MenuItem) this.mainItems.get(paramInt);
-			if (localMenuItem.getName().equals(Constant.CNN)){
+			if (localMenuItem.getName().equals(Constant.EFFORTLESS)
+					|| localMenuItem.getName().equals(Constant.BBC_ENGLISH)) {
 				openOtherApp(localMenuItem.getClassName());
-			}else if(localMenuItem.getName().equals(Constant.EFFORTLESS)){
-				openOtherApp(localMenuItem.getClassName());
-			}else{
+			} else {
 				Intent localIntent = new Intent();
 				localIntent.setClassName(this, localMenuItem.getClassName());
-				localIntent.putExtra(Constant.CATEGORY, localMenuItem.getName());
+				localIntent
+						.putExtra(Constant.CATEGORY, localMenuItem.getName());
 				startActivity(localIntent);
 			}
 		} else {

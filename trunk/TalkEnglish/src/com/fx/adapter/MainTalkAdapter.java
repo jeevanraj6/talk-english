@@ -73,24 +73,10 @@ public class MainTalkAdapter extends BaseAdapter {
 			localViewholder.avatar.setImageResource(R.drawable.bussenglish);
 		} else if (cate.equals(Constant.BEST_ENGLISH)) {
 			localViewholder.avatar.setImageResource(R.drawable.bestenglish);
-		} else if (cate.equals(Constant.LESSON)) {
-			localViewholder.avatar
-					.setImageResource(R.drawable.english_lesson);
-		} else if (cate.equals(Constant.BBCNEWS)) {
-			localViewholder.avatar.setImageResource(R.drawable.bbcmain);
-		} else if (cate.equals(Constant.PRONOUN)) {
-			localViewholder.avatar
-					.setImageResource(R.drawable.pronunciation);
-		} else if (cate.equals(Constant.EXPRESS)) {
-			localViewholder.avatar.setImageResource(R.drawable.express);
-		} else if (cate.equals(Constant.FLATMATE)) {
-			localViewholder.avatar.setImageResource(R.drawable.flatmate);
-		} else if (cate.equals(Constant.RINKU)) {
-			localViewholder.avatar.setImageResource(R.drawable.rinku);
-		} else if (cate.equals(Constant.IDIOM)) {
-			localViewholder.avatar.setImageResource(R.drawable.food);
-		} else if (cate.equals(Constant.DUNCAN)) {
+		}else if (cate.equals(Constant.DUNCAN)) {
 			localViewholder.avatar.setImageResource(R.drawable.duncan);
+		}else if (cate.equals(Constant.SPEAKING)) {
+			localViewholder.avatar.setImageResource(R.drawable.speaking);
 		}
 
 		return paramView;
