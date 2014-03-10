@@ -44,39 +44,57 @@ public class MainActivity extends Activity implements OnItemClickListener {
 	private List<MenuItem> initMenus() {
 		this.mainItems = new ArrayList();
 		MenuItem item = new MenuItem();
-		item.setName(Constant.SEVEN_RULES);
+		item.setName(Constant.SIMPLE);
 		item.setIllustrationId(R.drawable.rules);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 
 		item = new MenuItem();
-		item.setName(Constant.SPEAKING);
+		item.setName(Constant.MASTER);
 		item.setIllustrationId(R.drawable.success);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 
 		item = new MenuItem();
-		item.setName(Constant.SHOW);
+		item.setName(Constant.POWER);
 		item.setIllustrationId(R.drawable.show);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
-		item.setName(Constant.ENGINE);
+		item.setName(Constant.FASTER);
 		item.setIllustrationId(R.drawable.engine);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
-		item.setName(Constant.PRESENTATION);
+		item.setName(Constant.IDIOMS);
+		item.setIllustrationId(R.drawable.presentation);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.PODCAST);
+		item.setIllustrationId(R.drawable.presentation);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.SLANG);
+		item.setIllustrationId(R.drawable.presentation);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.PHONICS);
 		item.setIllustrationId(R.drawable.presentation);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 
 		item = new MenuItem();
-		item.setName(Constant.STEVEFORD);
+		item.setName(Constant.EFFORTLESS);
 		item.setIllustrationId(R.drawable.steveford);
-		item.setClassName(Constant.STEVEFORD_APP);
+		item.setClassName(Constant.EFFORTLESS_APP);
 		this.mainItems.add(item);
 
 		return this.mainItems;
@@ -110,8 +128,8 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		MenuItem localMenuItem;
 		if (paramAdapterView == this.menuGridview) {
 			localMenuItem = (MenuItem) this.mainItems.get(paramInt);
-			if (localMenuItem.getName().equals(Constant.STEVEFORD)){
-				openOtherApp(Constant.STEVEFORD_APP);
+			if (localMenuItem.getName().equals(Constant.EFFORTLESS)){
+				openOtherApp(localMenuItem.getClassName());
 			}else{
 				Intent localIntent = new Intent();
 				localIntent.setClassName(this, localMenuItem.getClassName());
