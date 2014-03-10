@@ -4,11 +4,15 @@ public class Constant {
 
 	  public static final String CATEGORY = "CATEGORY";
 	  
-	  public static final String SEVEN_RULES = "7 Rules";
-	  public static final String ENGINE = "Engine of Effortless";
-	  public static final String SHOW = "Show with A.J. Hoge";
-	  public static final String SPEAKING = "English Speaking Success";
-	  public static final String PRESENTATION = "Present - Interviews";
-	  public static final String STEVEFORD = "Steve Ford";
-	  public static final String STEVEFORD_APP = "com.fx.steveford";
+	  public static final String MASTER = "Master Conversation";
+	  public static final String POWER = "Power Learning Fluency";
+	  public static final String SIMPLE = "Simple Beginning";
+	  public static final String FASTER = "English Faster";
+	  public static final String IDIOMS = "Learning Idioms";
+	  public static final String SLANG = "Slang Learning";
+	  public static final String PODCAST = "Power Learning Podcast";
+	  public static final String PHONICS = "Phonics Learning";
+	  
+	  public static final String EFFORTLESS = "Effortless English";
+	  public static final String EFFORTLESS_APP = "com.fx.effortless";
 }

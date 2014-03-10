@@ -45,21 +45,30 @@ public class MainTalkActivity extends Activity implements OnItemClickListener {
 		mainItems = new ArrayList();
 		String[] arrayTitles = null;
 		String[] arrayLinks = null;
-		if (paramString.equals(Constant.SEVEN_RULES)) {
-			arrayLinks = getResources().getStringArray(R.array.seven_link);
-			arrayTitles = getResources().getStringArray(R.array.seven_title);
-		} else if (paramString.equals(Constant.ENGINE)) {
-			arrayLinks = getResources().getStringArray(R.array.engine_link);
-			arrayTitles = getResources().getStringArray(R.array.engine_title);
-		}else if (paramString.equals(Constant.SHOW)) {
-			arrayLinks = getResources().getStringArray(R.array.show_link);
-			arrayTitles = getResources().getStringArray(R.array.show_title);
-		}else if (paramString.equals(Constant.PRESENTATION)) {
-			arrayLinks = getResources().getStringArray(R.array.presentation_link);
-			arrayTitles = getResources().getStringArray(R.array.presentation_title);
-		}else if (paramString.equals(Constant.SPEAKING)) {
-			arrayLinks = getResources().getStringArray(R.array.success_link);
-			arrayTitles = getResources().getStringArray(R.array.success_title);
+		if (paramString.equals(Constant.POWER)) {
+			arrayLinks = getResources().getStringArray(R.array.power_link);
+			arrayTitles = getResources().getStringArray(R.array.power_title);
+		} else if (paramString.equals(Constant.PODCAST)) {
+			arrayLinks = getResources().getStringArray(R.array.podcast_link);
+			arrayTitles = getResources().getStringArray(R.array.podcast_title);
+		}else if (paramString.equals(Constant.SLANG)) {
+			arrayLinks = getResources().getStringArray(R.array.slang_link);
+			arrayTitles = getResources().getStringArray(R.array.slang_title);
+		}else if (paramString.equals(Constant.PHONICS)) {
+			arrayLinks = getResources().getStringArray(R.array.phonic_link);
+			arrayTitles = getResources().getStringArray(R.array.phonic_title);
+		}else if (paramString.equals(Constant.SIMPLE)) {
+			arrayLinks = getResources().getStringArray(R.array.simple_link);
+			arrayTitles = getResources().getStringArray(R.array.simple_tile);
+		}else if (paramString.equals(Constant.FASTER)) {
+			arrayLinks = getResources().getStringArray(R.array.faster_link);
+			arrayTitles = getResources().getStringArray(R.array.faster_title);
+		}else if (paramString.equals(Constant.MASTER)) {
+			arrayLinks = getResources().getStringArray(R.array.master_link);
+			arrayTitles = getResources().getStringArray(R.array.master_title);
+		}else if (paramString.equals(Constant.IDIOMS)) {
+			arrayLinks = getResources().getStringArray(R.array.idioms_link);
+			arrayTitles = getResources().getStringArray(R.array.idioms_title);
 		}
 		if (arrayLinks != null && arrayTitles != null) {
 			int i = Math.min(arrayLinks.length, arrayTitles.length);
