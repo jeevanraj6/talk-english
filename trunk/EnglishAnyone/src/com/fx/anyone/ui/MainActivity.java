@@ -45,55 +45,55 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		this.mainItems = new ArrayList();
 		MenuItem item = new MenuItem();
 		item.setName(Constant.SIMPLE);
-		item.setIllustrationId(R.drawable.rules);
+		item.setIllustrationId(R.drawable.simple);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 
 		item = new MenuItem();
 		item.setName(Constant.MASTER);
-		item.setIllustrationId(R.drawable.success);
+		item.setIllustrationId(R.drawable.master);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 
 		item = new MenuItem();
 		item.setName(Constant.POWER);
-		item.setIllustrationId(R.drawable.show);
+		item.setIllustrationId(R.drawable.power);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
 		item.setName(Constant.FASTER);
-		item.setIllustrationId(R.drawable.engine);
+		item.setIllustrationId(R.drawable.faster);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
 		item.setName(Constant.IDIOMS);
-		item.setIllustrationId(R.drawable.presentation);
+		item.setIllustrationId(R.drawable.idioms);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
 		item.setName(Constant.PODCAST);
-		item.setIllustrationId(R.drawable.presentation);
+		item.setIllustrationId(R.drawable.podcast);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
 		item.setName(Constant.SLANG);
-		item.setIllustrationId(R.drawable.presentation);
+		item.setIllustrationId(R.drawable.slang);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		
 		item = new MenuItem();
 		item.setName(Constant.PHONICS);
-		item.setIllustrationId(R.drawable.presentation);
+		item.setIllustrationId(R.drawable.phonics);
 		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 
 		item = new MenuItem();
 		item.setName(Constant.EFFORTLESS);
-		item.setIllustrationId(R.drawable.steveford);
+		item.setIllustrationId(R.drawable.effortless);
 		item.setClassName(Constant.EFFORTLESS_APP);
 		this.mainItems.add(item);
 
