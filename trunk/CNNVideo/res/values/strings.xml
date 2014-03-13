@@ -2,6 +2,42 @@
 <resources>
     <string name="app_name">CNN English</string>
     <string-array name="student_title">
+        <item>CNN Student News - March 13, 2014</item>
+        <item>CNN Student News - March 12, 2014</item>
+        <item>CNN Student News - March 11, 2014</item>
+        <item>CNN Student News - March 7, 2014</item>
+        <item>CNN Student News - March 6, 2014</item>
+        <item>CNN Student News - March 5, 2014</item>
+        <item>CNN Student News - March 4, 2014</item>
+        <item>CNN Student News - March 3, 2014</item>
+        <item>CNN Student News - February 28, 2014</item>
+        <item>CNN Student News - February 27, 2014</item>
+        <item>CNN Student News - February 26, 2014</item>
+        <item>CNN Student News - February 25, 2014</item>
+        <item>CNN Student News - February 24, 2014</item>
+        <item>CNN Student News - February 21, 2014</item>
+        <item>CNN Student News - February 20, 2014</item>
+        <item>CNN Student News - February 19, 2014</item>
+        <item>CNN Student News - February 18, 2014</item>
+        <item>CNN Student News - February 14, 2014</item>
+        <item>CNN Student News - February 13, 2014</item>
+        <item>CNN Student News - February 12, 2014</item>
+        <item>CNN Student News - February 11, 2014</item>
+        <item>CNN Student News - February 10, 2014</item>
+        <item>CNN Student News - February 7, 2014</item>
+        <item>CNN Student News - February 6, 2014</item>
+        <item>CNN Student News - February 5, 2014</item>
+        <item>CNN Student News - February 4, 2014</item>
+        <item>CNN Student News - February 3, 2014</item>
+        <item>CNN Student News - January 31, 2014</item>
+        <item>CNN Student News - January 30, 2014</item>
+        <item>CNN Student News - January 29, 2014</item>
+        <item>CNN Student News - January 28, 2014</item>
+        <item>CNN Student News - January 27, 2014</item>
+        <item>CNN Student News - January 24, 2014</item>
+        <item>CNN Student News - January 23, 2014</item>
+        <item>CNN Student News - January 22, 2014</item>
+        <item>CNN Student News - January 21, 2014</item>
         <item>CNN Student News - January 17, 2014</item>
         <item>CNN Student News - January 16, 2014</item>
         <item>CNN Student News - January 15, 2014</item>
@@ -91,6 +127,42 @@
         <item>CNN Student News - March 6, 2013</item>
     </string-array>
     <string-array name="student_link">
+        <item>N4nynghm7Y4</item>
+        <item>_x50U1AyCrU</item>
+        <item>KeXhgWcdtaQ</item>
+        <item>9Rf-SN4JrFc</item>
+        <item>0D5wZRRmEUE</item>
+        <item>N8JNBPNj5rg</item>
+        <item>sdPnQELL-kU</item>
+        <item>RevYMM6poKg</item>
+        <item>0tYIllUcUCc</item>
+        <item>IBdNH2ejnTI</item>
+        <item>tH0-XZgzD2Y</item>
+        <item>CT3xCV8emco</item>
+        <item>foFRK0fsaFs</item>
+        <item>KQ4CU-Xp15U</item>
+        <item>Kl46IP5Jd6s</item>
+        <item>OkBKJFUnhxs</item>
+        <item>bMV0ZRHhBEQ</item>
+        <item>3AqVFCdbiSQ</item>
+        <item>HQhgl4dWfuE</item>
+        <item>ddAvi2s89Vw</item>
+        <item>47cN3bTYPgA</item>
+        <item>b7YUcdoi7sY</item>
+        <item>YEMFuLwloZ4</item>
+        <item>eihKgndPC64</item>
+        <item>y-X7DtGV2VU</item>
+        <item>5wKtXxeVaqk</item>
+        <item>R9rpC0evBAQ</item>
+        <item>bL_h57c1LuQ</item>
+        <item>Bw62ZyqiEXo</item>
+        <item>Eq9HgtPhC-c</item>
+        <item>L8zpPr8aLe4</item>
+        <item>fdB4i1GHnho</item>
+        <item>8xksyPTSHcA</item>
+        <item>f3JOYHNinLs</item>
+        <item>FfhqtrhFlZI</item>
+        <item>qIKyU1YTXl0</item>
         <item>JyOT3LupVTU</item>
         <item>R7vC4DAFTOs</item>
         <item>ak-AN23amwo</item>
