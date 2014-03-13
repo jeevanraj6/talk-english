@@ -56,15 +56,15 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		this.mainItems.add(item);
 
 		item = new MenuItem();
-		item.setName(Constant.VOA_VIDEO);
-		item.setIllustrationId(R.drawable.voamain);
-		item.setClassName(Constant.VOA_VIDEO_APP);
+		item.setName(Constant.BBC);
+		item.setIllustrationId(R.drawable.bbc);
+		item.setClassName(Constant.BBC_APP);
 		this.mainItems.add(item);
 
 		item = new MenuItem();
-		item.setName(Constant.STEVEFORD);
-		item.setIllustrationId(R.drawable.steveford);
-		item.setClassName(Constant.STEVEFORD_APP);
+		item.setName(Constant.EVERYONE);
+		item.setIllustrationId(R.drawable.anyone);
+		item.setClassName(Constant.EVERYONE_APP);
 		this.mainItems.add(item);
 
 		return this.mainItems;
@@ -98,10 +98,8 @@ public class MainActivity extends Activity implements OnItemClickListener {
 		MenuItem localMenuItem;
 		if (paramAdapterView == this.menuGridview) {
 			localMenuItem = (MenuItem) this.mainItems.get(paramInt);
-			if (localMenuItem.getName().equals(Constant.STEVEFORD)){
-				openOtherApp(Constant.STEVEFORD_APP);
-			}else if (localMenuItem.getName().equals(Constant.VOA_VIDEO)) {
-				openOtherApp(Constant.VOA_VIDEO_APP);
+			if (localMenuItem.getName().equals(Constant.BBC)||localMenuItem.getName().equals(Constant.EVERYONE)){
+				openOtherApp(localMenuItem.getClassName());
 			}else{
 				Intent localIntent = new Intent();
 				localIntent.setClassName(this, localMenuItem.getClassName());

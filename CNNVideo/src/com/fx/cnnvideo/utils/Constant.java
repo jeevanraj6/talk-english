@@ -11,4 +11,8 @@ public class Constant {
 	  public static final String STUDENT = "CNN Student NEWS";
 	  public static final String VOA_VIDEO = "VOA Learning English";
 	  public static final String VOA_VIDEO_APP = "com.fx.voavideo";
+	  public static final String EVERYONE = "English for Everyone";
+	  public static final String EVERYONE_APP = "com.fx.anyone";
+	  public static final String BBC = "BBC English";
+	  public static final String BBC_APP = "com.fx.bbcenglish";
 }
