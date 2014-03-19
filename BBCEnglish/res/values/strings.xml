@@ -3,6 +3,36 @@
     <string name="app_name">BBC Learn English</string>
 
      <string-array name="bbc_news_titles">
+        <item>Video Words in the News: Hugging lions </item>
+        <item>Video Words in the News: Teapot tower </item>
+        <item>Video Words in the News: Armchair tourism</item>
+        <item>Video Words in the News: Ho ho ho!</item>
+        <item>Video Words in the News: Meet Bao Bao the panda</item>
+        <item>Video Words in the News: Christmas lights </item>
+        <item>Video Words in the News: Marathon swim</item>
+        <item>Video Words in the News: Pink pipes of Berlin</item>
+        <item>Video Words in the News: Pumpkin art </item>
+        <item>Video Words in the News: UK nuclear station </item>
+        <item>Video Words in the News: Wedding saviours</item>
+        <item>Video Words in the News: Secret taxi driver</item>
+        <item>Video Words in the News: Space robot</item>
+        <item>Video Words in the News: Shark-proof divers</item>
+        <item>Video Words in the News: Thai police fight the fat</item>
+        <item>Video Words in the News: Forest fires hit the US</item>
+        <item>Video Words in the News: Snail facial</item>
+        <item>Video Words in the News: Bicyle-powered helicopter</item>
+        <item>Video Words in the News: Tightrope walker</item>
+        <item>Video Words in the News: Protests in Brazil</item>
+        <item>Video Words in the News: Surgery app</item>
+        <item>Video Words in the News: Floods in Europe</item>
+        <item>Video Words in the News: The oldest person to climb Everest </item>
+        <item>Video Words in the News: A delicate job for hard men</item>
+        <item>Video Words in the News: Eating insects </item>
+        <item>Video Words in the News: Print your own gun</item>
+        <item>Video Words in the News: Bicyle-powered helicopter</item>
+        <item>Video Words in the News: Knife massage</item>
+        <item>Video Words in the News: Garden in the clouds</item>
+        <item>Video Words in the News: A lucky escape </item>
         <item>Video Words in the News: Battle of the Oranges</item>
         <item>Video Words in the News: Sanctuary in Indonesia</item>
         <item>Video Words in the News: Every dog has its day</item>
@@ -70,6 +100,36 @@
         <item>UN Extremely likely global warming man made</item>
     </string-array>
     <string-array name="bbc_news_links">
+        <item>MctYkgeSmDs</item>
+        <item>__E9smvuAis</item>
+        <item>5StFp9zcZ6Y</item>
+       	<item>rO2gRQuo_kI</item>
+        <item>kN-q8yX0loc</item>
+        <item>QNMq2ZhpQ3M</item>
+        <item>R1_-u1B2H2A</item>
+        <item>wzzK1ar0Eyk</item>
+        <item>vGd-_osO4VA</item>
+        <item>TFunc5R9C3I</item>
+        <item>QyqQcgOGXmg</item>
+        <item>K-agy_6apLM</item>
+        <item>IvO3qe_WkG0</item>
+        <item>yLpp4lWXgM0</item>
+        <item>pkXCdDaHxrs</item>
+        <item>S0rjwY3X7EU</item>
+        <item>ECpZ5lm-oC4</item>
+        <item>r8qwn3wajjs</item>
+        <item>S_0IwQGV-nk</item>
+        <item>pYIw63wVtBA</item>
+        <item>MoXxsBPqNtk</item>
+        <item>BJ1EGdt2Xp4</item>
+        <item>7ZIEm0djQfc</item>
+        <item>4OHnr6mMeGA</item>
+        <item>m9XEu-gMfVM</item>
+        <item>4YTC9DGfADY</item>
+        <item>r8qwn3wajjs</item>
+        <item>Cu4P_BZdbpk</item>
+        <item>CUkMt3szVkE</item>
+        <item>BWT8PRO4LCQ</item>
         <item>qVy6xcHlxtM</item>
         <item>CgsSa4MUBcs</item>
         <item>nGUfj2taniA</item>
@@ -245,8 +305,37 @@
         <item>Express English: Happy Kids</item>
         <item>Express English: Unhappy children</item>
         <item>Express English: Boxing</item>
+        <item>Express English: Men</item>
+        <item>Express English: Being a woman</item>
+        <item>Express English: Stress</item>
+        <item>Express English: Fashion 1</item>
+        <item>Express English: Relationships</item>
+        <item>Express English: Home</item>
+        <item>Express English: Fear</item>
+        <item>Express English: Heroes</item>
+        <item>Express English: Spare Time</item>
+        <item>Express English: Romance</item>
+        <item>Express English: Self Restraint</item>
+        <item>Express English: Embarrassment</item>
+        <item>Express English: National stereotypes</item>
+        <item>Express English: Social networking</item>
+        <item>Express English: Happiness</item>
+        <item>Express English: Christmas Gifts</item>
+        <item>Express English: New Year's Resolutions</item>
+        <item>Express English: Entrepreneurs</item>
+        <item>Express English: Phobias</item>
+        <item>Express English: Fitness</item>
+        <item>Express English: Driving</item>
+        <item>Express English: Coffee or Tea?</item>
+        <item>Express English: The colour red</item>
+        <item>Express English: The colour white</item>
+        <item>Express English: The colour blue</item>
+        <item>Express English: Eccentric</item>
+        <item>Express English: Wedding Vows</item>
+        <item>Express English: Sweet Savoury</item>
+        <item>Express English: Computer games</item>
     </string-array>
-    <string-array name="express_links">
+    <string-array name="express_links">        
         <item>kHj13Vx_4LI</item>
         <item>wJ4vmSzhhtw</item>
         <item>r8gzdOZzo0E</item>
@@ -277,6 +366,35 @@
         <item>X-vlYIz7YJg</item>
         <item>Edbk5rdGJoM</item>
         <item>KbGVtF4Y-TI</item>
+        <item>UX7Z7aTYZ2Q</item>
+        <item>VUrtdLwRpFI</item>
+        <item>J1SLxTo75wA</item>
+        <item>oYfA9Z1OVUk</item>
+        <item>QEicdv-7NJQ</item>
+        <item>sGZPjpGq4yM</item>
+        <item>YYYIorv98kI</item>
+        <item>rswb5EbrxoY</item>
+        <item>MrE48yDhrKI</item>
+        <item>K4r1A6eevE8</item>
+        <item>l9Uoapsqk2Y</item>
+        <item>u_njfUUIrbA</item>
+        <item>xYJXNkMKgX8</item>
+        <item>arQPCLiGZE0</item>
+        <item>j8hOycSx_5w</item>
+        <item>jKzQzP7QB_0</item>
+        <item>F3WY9SF5Yvw</item>
+        <item>hWNVJvms6Dg</item>
+        <item>1JaFu1BP9MQ</item>
+        <item>Dkej5xdz3dM</item>
+        <item>jixvx2SbD-M</item>
+        <item>Dimw_oOXxYY</item>
+        <item>ji8O1XtOaZ8</item>
+        <item>ES3uyuckbCU</item>
+        <item>1ybtcdnDfWE</item>
+        <item>w_qeAwhgGA0</item>
+        <item>QlR2Co9AZU0</item>
+        <item>SoIM2vrLGAM</item>
+        <item>UHYFtYpXL70</item>
     </string-array>
     <string-array name="rinku_titles">
         <item>"Rinku's World. Episode 1."</item>
@@ -357,6 +475,48 @@
         <item>The Flatmates episode 56</item>
         <item>The Flatmates episode 57</item>
         <item>The Flatmates episode 58</item>
+        <item>The Flatmates episode 59</item>
+        <item>The Flatmates episode 60</item>
+        <item>The Flatmates episode 61</item>
+        <item>The Flatmates episode 62</item>
+        <item>The Flatmates episode 63</item>
+        <item>The Flatmates episode 64</item>
+        <item>The Flatmates episode 65</item>
+        <item>The Flatmates episode 66</item>
+        <item>The Flatmates episode 67</item>
+        <item>The Flatmates episode 68</item>
+        <item>The Flatmates episode 69</item>
+        <item>The Flatmates episode 70</item>
+        <item>The Flatmates episode 71</item>
+        <item>The Flatmates episode 72</item>
+        <item>The Flatmates episode 73</item>
+        <item>The Flatmates episode 74</item>
+        <item>The Flatmates episode 75</item>
+        <item>The Flatmates episode 76</item>
+        <item>The Flatmates episode 77</item>
+        <item>The Flatmates episode 78</item>
+        <item>The Flatmates episode 79</item>
+        <item>The Flatmates episode 80</item>
+        <item>The Flatmates episode 81</item>
+        <item>The Flatmates episode 82</item>
+        <item>The Flatmates episode 83</item>
+        <item>The Flatmates episode 84</item>
+        <item>The Flatmates episode 85</item>
+        <item>The Flatmates episode 86</item>
+        <item>The Flatmates episode 87</item>
+        <item>The Flatmates episode 88</item>
+        <item>The Flatmates episode 89</item>
+        <item>The Flatmates episode 90</item>
+        <item>The Flatmates episode 91</item>
+        <item>The Flatmates episode 92</item>
+        <item>The Flatmates episode 93</item>
+        <item>The Flatmates episode 94</item>
+        <item>The Flatmates episode 95</item>
+        <item>The Flatmates episode 96</item>
+        <item>The Flatmates episode 97</item>
+        <item>The Flatmates episode 98</item>
+        <item>The Flatmates episode 99</item>
+        <item>The Flatmates episode 100</item>
     </string-array>
     <string-array name="flatmate_links">
         <item>vAi1JlMIQVM</item>
@@ -418,6 +578,48 @@
         <item>SEeRY7cB4oA</item>
         <item>FhaAHIlE0aU</item>
         <item>FhaAHIlE0aU</item>
+        <item>1Vz0kg7RMyw</item>
+        <item>kjvINkUIDME</item>
+        <item>yDBa9prgxxE</item>
+        <item>QvSTLTbpMsY</item>
+        <item>G8amKc9Ls8c</item>
+        <item>OmzjO6NLObo</item>
+        <item>-G7BGTRyBEA</item>
+        <item>ZAnXOPSR3Oc</item>
+        <item>f7bj73-FtPY</item>
+        <item>wSxP27f08AU</item>
+        <item>SMzSKm7nGBk</item>
+        <item>6mnmsPwjC6I</item>
+        <item>-pqudrsmhcc</item>
+        <item>l-RezpJHe9g</item>
+        <item>SWky9PK1yAU</item>
+        <item>zUgb5VcskI8</item>
+        <item>EIbZptfOM8I</item>
+        <item>nWDqf6TYWTM</item>
+        <item>-F4XeeTQE9s</item>
+        <item>Lk7bWtntauU</item>
+        <item>4uO4XRPf3IQ</item>
+        <item>t2hl0Xk78PI</item>
+        <item>lw4wSYetFyw</item>
+        <item>3or_rQMAqs8</item>
+        <item>hepJEiF4XSA</item>
+        <item>QcpcIPvY9QU</item>
+        <item>ognpT96b4RM</item>
+        <item>P53nNXuRmT0</item>
+        <item>l3rNIRvPy_A</item>
+        <item>kqEq8RL7hBI</item>
+        <item>04e41egw6Dg</item>
+        <item>CncPgZUcacU</item>
+        <item>9dlxktKMxGE</item>
+        <item>djnhb0z8lfI</item>
+        <item>y-IvswCxqrw</item>
+        <item>ow_T95jAzvc</item>
+        <item>_VdjgNQQ3mI</item>
+        <item>rljwSJw2WHg</item>
+        <item>TB1P8NqUfsI</item>
+        <item>7V1H1xqZR4g</item>
+        <item>V5azCoPjUJQ</item>
+        <item>60MfvSj8FtU</item>
     </string-array>
     <string-array name="idioms_title">
         <item>Fruit Idioms</item>
