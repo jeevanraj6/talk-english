@@ -7,23 +7,19 @@ import com.fx.bbcenglish.R;
 import com.fx.bbcenglish.adapter.MainMenuAdapter;
 import com.fx.bbcenglish.model.MenuItem;
 import com.fx.bbcenglish.utils.Constant;
-
 import com.google.ads.AdRequest;
 import com.google.ads.AdView;
 
 import android.app.Activity;
-import android.content.ActivityNotFoundException;
 import android.content.Intent;
-import android.content.pm.PackageManager;
 import android.graphics.drawable.ColorDrawable;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 
-public class MainActivity extends Activity implements OnItemClickListener {
+public class MainLearnActivity extends Activity implements OnItemClickListener {
 
 	private AdView adView;
 	private List<MenuItem> mainItems;
@@ -32,72 +28,55 @@ public class MainActivity extends Activity implements OnItemClickListener {
 
 	protected void onCreate(Bundle paramBundle) {
 		super.onCreate(paramBundle);
-		setContentView(R.layout.activity_main);
+		setContentView(R.layout.activity_main_learn);
 		this.mainMenuAdapter = new MainMenuAdapter(this, initMenus());
 		this.menuGridview = ((GridView) findViewById(R.id.menu_grid));
 		this.menuGridview.setSelector(new ColorDrawable(0));
 		this.menuGridview.setOnItemClickListener(this);
 		this.menuGridview.setAdapter(this.mainMenuAdapter);
-		this.adView = ((AdView) findViewById(R.id.main_ad));
+		this.adView = ((AdView) findViewById(R.id.mainlearn_ad));
 		this.adView.loadAd(new AdRequest());
 	}
 
 	private List<MenuItem> initMenus() {
 		this.mainItems = new ArrayList();
+		
 		MenuItem item = new MenuItem();
-		item.setName(Constant.BBCNEWS);
-		item.setIllustrationId(R.drawable.bbcmain);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.PRONOUN);
-		item.setIllustrationId(R.drawable.pronunciation);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.EXPRESS);
-		item.setIllustrationId(R.drawable.express);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.FLATMATE);
-		item.setIllustrationId(R.drawable.flatmate);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.RINKU);
-		item.setIllustrationId(R.drawable.rinku);
-		item.setClassName(MainTalkActivity.class.getName());
-		this.mainItems.add(item);
-		
-		item = new MenuItem();
-		item.setName(Constant.IDIOM);
+		item.setName(Constant.FOOD);
 		item.setIllustrationId(R.drawable.food);
-		item.setClassName(MainLearnActivity.class.getName());
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.TRANS);
+		item.setIllustrationId(R.drawable.transport);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.COLOR);
+		item.setIllustrationId(R.drawable.color);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.SPORT);
+		item.setIllustrationId(R.drawable.sport);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.BODY);
+		item.setIllustrationId(R.drawable.body);
+		item.setClassName(MainTalkActivity.class.getName());
+		this.mainItems.add(item);
+		
+		item = new MenuItem();
+		item.setName(Constant.ANIMAL);
+		item.setIllustrationId(R.drawable.animal);
+		item.setClassName(MainTalkActivity.class.getName());
 		this.mainItems.add(item);
 		return this.mainItems;
-
-	}
-
-	private void openOtherApp(String paramString) {
-		if (appInstalledOrNot(paramString)) {
-			startActivity(getPackageManager().getLaunchIntentForPackage(
-					paramString));
-			return;
-		}
-		try {
-			startActivity(new Intent("android.intent.action.VIEW",
-					Uri.parse("market://details?id=" + paramString)));
-			return;
-		} catch (ActivityNotFoundException localActivityNotFoundException) {
-			startActivity(new Intent("android.intent.action.VIEW",
-					Uri.parse("http://play.google.com/store/apps/details?id="
-							+ paramString)));
-		}
 	}
 
 	public void onDestroy() {
@@ -108,28 +87,12 @@ public class MainActivity extends Activity implements OnItemClickListener {
 
 	public void onItemClick(AdapterView<?> paramAdapterView, View paramView,
 			int paramInt, long paramLong) {
-		MenuItem localMenuItem;
 		if (paramAdapterView == this.menuGridview) {
-			localMenuItem = (MenuItem) this.mainItems.get(paramInt);
+			MenuItem localMenuItem = (MenuItem) this.mainItems.get(paramInt);
 			Intent localIntent = new Intent();
 			localIntent.setClassName(this, localMenuItem.getClassName());
 			localIntent.putExtra(Constant.CATEGORY, localMenuItem.getName());
 			startActivity(localIntent);
-		}else{
-			return;
 		}
-		
-		
 	}
-
-	private boolean appInstalledOrNot(String paramString) {
-		PackageManager localPackageManager = getPackageManager();
-		try {
-			localPackageManager.getPackageInfo(paramString, 1);
-			return true;
-		} catch (PackageManager.NameNotFoundException localNameNotFoundException) {
-		}
-		return false;
-	}
-
 }
