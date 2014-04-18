@@ -3,6 +3,10 @@
     <string name="app_name">BBC Learn English</string>
 
      <string-array name="bbc_news_titles">
+        <item>Video Words in the News: Unusual punishment</item>
+        <item>Video Words in the News: Stone from the sky</item>
+        <item>Video Words in the News: Sumo in decline</item>
+        <item>Video Words in the News: Road of nails </item>
         <item>Video Words in the News: Hugging lions </item>
         <item>Video Words in the News: Teapot tower </item>
         <item>Video Words in the News: Armchair tourism</item>
@@ -43,6 +47,18 @@
         <item>Video Words in the News: Bull power</item>
         <item>Video Words in the News: Death of a traditional craft</item>
         <item>Video Words in the News: The icing on the cake</item>
+        <item>Video Words in the News: Ho ho ho! </item>
+        <item>Video Words in the News: Meet Bao Bao the panda</item>
+        <item>Video Words in the News: Christmas lights </item>
+        <item>Video Words in the News: Marathon swim</item>
+        <item>Video Words in the News: Pink pipes of Berlin </item>
+        <item>Video Words in the News: Pumpkin art </item>
+        <item>Video Words in the News: Wedding saviours</item>
+        <item>Video Words in the News: Protecting Venice</item>
+        <item>Video Words in the News: Pink power</item>
+        <item>Video Words in the News: Lahore Walled City</item>
+        <item>Video Words in the News: Art in your face</item>
+        <item>Video Words in the News: A lucky escape</item>
         <item>BBC News Day of the Dead celebrations in Latin America</item>
         <item>Arsenal v Liverpool: Luis Suárez questions deflected by Arsène Wenger</item>
         <item>BBC News Pakistan Taliban say leader Mehsud killed by drone</item>
@@ -100,6 +116,10 @@
         <item>UN Extremely likely global warming man made</item>
     </string-array>
     <string-array name="bbc_news_links">
+        <item>VX2PqeMlhqs</item>
+        <item>vY_GeYfae9g</item>
+        <item>r3cEsglQTRU</item>
+        <item>gsdR1XzMPxc</item>
         <item>MctYkgeSmDs</item>
         <item>__E9smvuAis</item>
         <item>5StFp9zcZ6Y</item>
@@ -140,6 +160,18 @@
         <item>gIWqFtIotAU</item>
         <item>XKFjDF27Xr4</item>
         <item>iK-Cn33n5pU</item>
+        <item>rO2gRQuo_kI</item>
+        <item>kN-q8yX0loc</item>
+        <item>QNMq2ZhpQ3M</item>
+        <item>R1_-u1B2H2A</item>
+        <item>wzzK1ar0Eyk</item>
+        <item>vGd-_osO4VA</item>
+        <item>QyqQcgOGXmg</item>
+        <item>XIwNS5y0V78</item>
+        <item>qwTWhRjbpdY</item>
+        <item>CxaCLjUdAo0</item>
+        <item>UDUd8deKggM</item>
+        <item>BWT8PRO4LCQ</item>
         <item>AitWZ2G-BVM</item>
         <item>fv22k9oU4vs</item>
         <item>Eds8mwSvyy8</item>
@@ -321,7 +353,7 @@
         <item>Express English: Social networking</item>
         <item>Express English: Happiness</item>
         <item>Express English: Christmas Gifts</item>
-        <item>Express English: New Year's Resolutions</item>
+        <item>Express English: New Year\'s Resolutions</item>
         <item>Express English: Entrepreneurs</item>
         <item>Express English: Phobias</item>
         <item>Express English: Fitness</item>
@@ -621,13 +653,24 @@
         <item>V5azCoPjUJQ</item>
         <item>60MfvSj8FtU</item>
     </string-array>
-    <string-array name="idioms_title">
+   
+    <string-array name="food_title">
         <item>Fruit Idioms</item>
         <item>Tea Idioms</item>
         <item>Pie Idioms</item>
         <item>Bean Idioms</item>
         <item>Vegetable Idioms</item>
         <item>Egg Idioms</item>
+    </string-array>
+    <string-array name="food_link">
+        <item>xWVbSX8QVNI</item>
+        <item>WSPR0572glk</item>
+        <item>X1DtDh6x2PA</item>
+        <item>GRLQX4SiK0c</item>
+        <item>b2CGYBvC_jM</item>
+        <item>B-g8ahW1UHM</item>
+    </string-array>
+     <string-array name="trans_title">
         <item>Boat Idioms</item>
         <item>Drive Idioms</item>
         <item>Mile Idioms</item>
@@ -635,18 +678,80 @@
         <item>Road Idioms</item>
         <item>Wagon Idioms</item>
     </string-array>
-    <string-array name="idioms_links">
-        <item>xWVbSX8QVNI</item>
-        <item>WSPR0572glk</item>
-        <item>X1DtDh6x2PA</item>
-        <item>GRLQX4SiK0c</item>
-        <item>b2CGYBvC_jM</item>
-        <item>B-g8ahW1UHM</item>
+    <string-array name="trans_links">
         <item>1LOiHFqUDPQ</item>
         <item>Tp9N1k3PwHo</item>
         <item>WT6xeuql_IM</item>
         <item>nnJnnnhbnrM</item>
         <item>sfR0WnI6dPY</item>
         <item>dtNlM-NG7Z4</item>
+    </string-array>
+    <string-array name="sport_title">
+        <item>Ice Skating</item>
+        <item>Ball Idioms</item>
+        <item>Athletics Idioms</item>
+        <item>Football Idioms</item>
+        <item>Boxing Idioms</item>
+    </string-array>
+    <string-array name="sport_link">
+        <item>E4WdazLU3Kw</item>
+        <item>-QEF5CvobN0</item>
+        <item>f88l1A3DX14</item>
+        <item>BIYbt5Anpds</item>
+        <item>sltDmCamrfs</item>
+    </string-array>
+    <string-array name="color_title">
+        <item>Silver Idioms</item>
+        <item>Red Idioms</item>
+        <item>Blue Idioms</item>
+        <item>Gold Idioms</item>
+        <item>White Idioms</item>
+        <item>Green Idioms</item>
+    </string-array>
+    <string-array name="color_link">
+        <item>_9Qtrihd8UU</item>
+        <item>jN_4wQiwYVw</item>
+        <item>-X-uSMC4ZSM</item>
+        <item>O3JGY1jeJiA</item>
+        <item>7qQKnLI52F4</item>
+        <item>JmwBr65CKXI</item>
+    </string-array>
+    <string-array name="body_title">
+        <item>Foot idioms</item>
+        <item>Arm Idioms</item>
+        <item>Leg Idioms</item>
+        <item>Eye Idioms</item>
+        <item>Head Idioms</item>
+        <item>Hair Idioms</item>
+    </string-array>
+    <string-array name="body_link">
+        <item>p0Ygbm2GuHk</item>
+        <item>dvWZMtbEdfk</item>
+        <item>ajRj7oZfSSk</item>
+        <item>fW3H2YnRWJo</item>
+        <item>r2nT_HqWCUk</item>
+        <item>a7eLh5dEfh0</item>
+    </string-array>
+    <string-array name="animal_title">
+        <item>Bird Idioms</item>
+        <item>Horse Idioms</item>
+        <item>Pig Idioms</item>
+        <item>Insect Idioms</item>
+        <item>Fish Idioms</item>
+        <item>Cat Idioms</item>
+        <item>Dog Idioms</item>
+        <item>Monkey Idioms</item>
+        <item>Bee Idioms</item>
+    </string-array>
+     <string-array name="animal_link">
+        <item>cskIoQg8LCw</item>
+        <item>AX0T2oxv0Jo</item>
+        <item>ehUHGiIsA9U</item>
+        <item>BiiXVGa1axg</item>
+        <item>KccVhEfZ9Ms</item>
+        <item>uCV7tdSMat0</item>
+        <item>33V_fE5Mde4</item>
+        <item>cMsBGl9lj78</item>
+        <item>e6c8oj5mfTc</item>
     </string-array>
 </resources>
