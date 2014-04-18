@@ -57,12 +57,27 @@ public class MainTalkActivity extends Activity implements OnItemClickListener {
 		}else if(paramString.equals(Constant.FLATMATE)){
 			arraylinks = getResources().getStringArray(R.array.flatmate_links);
 			arraytitles = getResources().getStringArray(R.array.flatmate_title);
-		}else if(paramString.equals(Constant.IDIOM)){
-			arraylinks = getResources().getStringArray(R.array.idioms_links);
-			arraytitles = getResources().getStringArray(R.array.idioms_title);
 		}else if(paramString.equals(Constant.PRONOUN)){
 			arraylinks = getResources().getStringArray(R.array.pronoun_link);
 			arraytitles = getResources().getStringArray(R.array.pronoun_title);
+		}else if(paramString.equals(Constant.FOOD)){
+			arraylinks = getResources().getStringArray(R.array.food_link);
+			arraytitles = getResources().getStringArray(R.array.food_title);
+		}else if(paramString.equals(Constant.TRANS)){
+			arraylinks = getResources().getStringArray(R.array.trans_links);
+			arraytitles = getResources().getStringArray(R.array.trans_title);
+		}else if(paramString.equals(Constant.SPORT)){
+			arraylinks = getResources().getStringArray(R.array.sport_link);
+			arraytitles = getResources().getStringArray(R.array.sport_title);
+		}else if(paramString.equals(Constant.BODY)){
+			arraylinks = getResources().getStringArray(R.array.body_link);
+			arraytitles = getResources().getStringArray(R.array.body_title);
+		}else if(paramString.equals(Constant.COLOR)){
+			arraylinks = getResources().getStringArray(R.array.color_link);
+			arraytitles = getResources().getStringArray(R.array.color_title);
+		}else if(paramString.equals(Constant.ANIMAL)){
+			arraylinks = getResources().getStringArray(R.array.animal_link);
+			arraytitles = getResources().getStringArray(R.array.animal_title);
 		}
 		if (arraylinks != null && arraytitles != null) {
 			int i = Math.min(arraylinks.length, arraytitles.length);
